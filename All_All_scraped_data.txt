@@ -8,7 +8,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS AQUA NEGĀZĒTS 5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.16,
       "unit": "€/L"
@@ -28,7 +31,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS AQUA NEGĀZĒTS 5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.16,
       "unit": "€/L"
@@ -163,7 +169,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA 5.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.23,
       "unit": "€/L"
@@ -183,7 +192,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA 5.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.23,
       "unit": "€/L"
@@ -1197,7 +1209,10 @@
     ],
     "productName": "MINERĀLŪDENS DABĪGAIS AKVILE NEGĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.39,
       "unit": "€/L"
@@ -1217,7 +1232,10 @@
     ],
     "productName": "MINERĀLŪDENS DABĪGAIS AKVILE VIEGLI GĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.39,
       "unit": "€/L"
@@ -1237,7 +1255,10 @@
     ],
     "productName": "ŪDENS VICHY GĀZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.39,
       "unit": "€/L"
@@ -1257,7 +1278,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS VICHY NEGĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.39,
       "unit": "€/L"
@@ -1415,7 +1439,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS EVEREST GĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.65,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.43,
       "unit": "€/L"
@@ -1461,7 +1488,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS EVEREST NEGĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.65,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.43,
       "unit": "€/L"
@@ -1504,7 +1534,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA GĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.46,
       "unit": "€/L"
@@ -1524,7 +1557,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA NEGĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.46,
       "unit": "€/L"
@@ -1641,9 +1677,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002007
+    ],
     "productName": "BIETES 1KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.49,
       "unit": "€/KG"
@@ -1652,12 +1696,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/05/06325-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002007
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -2019,7 +2058,10 @@
     ],
     "productName": "MINERĀLŪDENS NEGĀZĒTS NEPTUNAS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.53,
       "unit": "€/L"
@@ -2039,7 +2081,10 @@
     ],
     "productName": "ŪDENS TĒRVETES NEGĀZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.53,
       "unit": "€/L"
@@ -2059,7 +2104,10 @@
     ],
     "productName": "MINERĀLŪDENS GĀZĒTS NEPTUNAS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.53,
       "unit": "€/L"
@@ -2079,7 +2127,10 @@
     ],
     "productName": "MINERĀLŪDENS TĒRVETES GĀZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.53,
       "unit": "€/L"
@@ -2478,9 +2529,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002003
+    ],
     "productName": "KARTUPEĻI KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.59,
       "unit": "€/KG"
@@ -2489,12 +2548,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/kartupeli-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002003
-    ]
+    "discount": null
   },
   {
     "shop": "MAXIMA",
@@ -2577,7 +2631,10 @@
     ],
     "productName": "ŪDENS DZER.VIEGLI GĀZĒTS AKVILE AR SARKANO OGU SMARŽU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.63,
       "unit": "€/L"
@@ -2597,7 +2654,10 @@
     ],
     "productName": "DZERAMAIS ŪDENS AKVILE AR CITRONA GARŠU VIEGLI GĀZĒTS 1,5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.63,
       "unit": "€/L"
@@ -3072,9 +3132,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      30020010
+    ],
     "productName": "SĪPOLI KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.69,
       "unit": "€/KG"
@@ -3083,12 +3151,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/09/06268-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      30020010
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -3710,7 +3773,10 @@
     ],
     "productName": "MINERĀLŪDENS VYTAUTAS NATURĀLS GĀZ. 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.78,
       "unit": "€/L"
@@ -4214,7 +4280,10 @@
     ],
     "productName": "BĒRZŪDENS BEZALK.DZĒRIENS CĒSU ZEM.&BAZ.1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.83,
       "unit": "€/L"
@@ -4234,7 +4303,10 @@
     ],
     "productName": "BĒRZŪDENS BEZALK.DZĒRIENS CĒSU MELLEŅU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.83,
       "unit": "€/L"
@@ -4254,7 +4326,10 @@
     ],
     "productName": "KVASA DZĒRIENS SENČU CIDO 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.83,
       "unit": "€/L"
@@ -4372,7 +4447,10 @@
     ],
     "productName": "LIMONĀDE RC COLA 2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.85,
       "unit": "€/L"
@@ -4603,7 +4681,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS VICHY CITRONU GĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.86,
       "unit": "€/L"
@@ -4623,7 +4704,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. FANTASTIKA COLA 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.86,
       "unit": "€/L"
@@ -4928,7 +5012,10 @@
     ],
     "productName": "MINERĀLŪDENS DABĪGAIS VENDEN SPORTA NEGĀZĒTS 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.92,
       "unit": "€/L"
@@ -5207,7 +5294,10 @@
     ],
     "productName": "LIMONĀDE KLASISKA BEZ CUKURA 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.93,
       "unit": "€/L"
@@ -5227,7 +5317,10 @@
     ],
     "productName": "LIMONĀDE ZVANIŅŠ 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.93,
       "unit": "€/L"
@@ -5247,7 +5340,10 @@
     ],
     "productName": "TĒJA LEDUS CIDO ZAĻĀ AR PERSIKU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.93,
       "unit": "€/L"
@@ -5464,7 +5560,10 @@
     ],
     "productName": "KVASS ULMAŅLAIKU 2L CĒSU ALUS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.98,
       "unit": "€/L"
@@ -6211,7 +6310,10 @@
     ],
     "productName": "DZĒRIENS NJOY CITRONU ZEMEŅU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.99,
       "unit": "€/L"
@@ -6231,7 +6333,10 @@
     ],
     "productName": "DZĒRIENS MANGAĻI VITAFRUIT AR CITRUSA GARŠU GĀZĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.99,
       "unit": "€/L"
@@ -6251,7 +6356,10 @@
     ],
     "productName": "DZĒRIENS NJOI CITRONU LAIMA PIPARMĒTRU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.99,
       "unit": "€/L"
@@ -6271,7 +6379,10 @@
     ],
     "productName": "SUN SET LIMONĀDE TONIKS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.99,
       "unit": "€/L"
@@ -6284,9 +6395,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "KĀPOSTI KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 0.99,
       "unit": "€/KG"
@@ -6295,12 +6414,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/06463-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -6380,7 +6494,10 @@
     ],
     "productName": "CAPRIO SULA ĀBOLU 2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1,
       "unit": "€/L"
@@ -6922,7 +7039,10 @@
     ],
     "productName": "ŪDENS VICHY FRESH ORANGE&MANGO 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.06,
       "unit": "€/L"
@@ -6942,7 +7062,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS VICHY VIVA FRESH LEMON-LIME 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.06,
       "unit": "€/L"
@@ -6962,7 +7085,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS VICHY FRESH STRAWBERRY 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.06,
       "unit": "€/L"
@@ -6982,7 +7108,10 @@
     ],
     "productName": "KVASS ULMAŅLAIKU PORTERKVASS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.06,
       "unit": "€/L"
@@ -7002,7 +7131,10 @@
     ],
     "productName": "DZĒRIENS PEPSI COLA GĀZ. 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.09,
       "unit": "€/L"
@@ -7489,7 +7621,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA NEGĀZĒTS 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.1,
       "unit": "€/L"
@@ -7776,6 +7911,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      1,
+      1002,
+      10010020
+    ],
     "productName": "DZĒRIENS MULTIVITAMĪNU TYMBARK 2L",
     "productPriceOld": {
       "value": 2.89,
@@ -7793,12 +7933,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/5900334004215-300x300.jpg",
     "available": true,
-    "discount": 21,
-    "categories": [
-      1,
-      1002,
-      10010020
-    ]
+    "discount": 21
   },
   {
     "shop": "CITRO",
@@ -8042,7 +8177,10 @@
     ],
     "productName": "KVASS TĒRVETES SAIMES 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.75,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.17,
       "unit": "€/L"
@@ -8282,7 +8420,10 @@
     ],
     "productName": "ŪDENS EVERESTS NEGĀZĒTS 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.18,
       "unit": "€/L"
@@ -8302,7 +8443,10 @@
     ],
     "productName": "ŪDENS DZERAMAIS EVERESTS GĀZĒTS 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.18,
       "unit": "€/L"
@@ -8610,7 +8754,10 @@
     ],
     "productName": "DZĒRIENS VENDEN FRUITE CITRONS UN LAIMS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.19,
       "unit": "€/L"
@@ -8623,9 +8770,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001001
+    ],
     "productName": "ĀBOLI RED PRINCE KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.19,
       "unit": "€/KG"
@@ -8634,18 +8789,21 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/aboli-RedPrince-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001001
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      30020016
+    ],
     "productName": "SALĀTI PODIŅĀ GAB.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.19,
       "unit": "€/KG"
@@ -8654,12 +8812,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/09/Salati-podina-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      30020016
-    ]
+    "discount": null
   },
   {
     "shop": "MAXIMA",
@@ -9094,7 +9247,10 @@
     ],
     "productName": "LEDUS TĒJA NESTEA CITRONU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.26,
       "unit": "€/L"
@@ -9114,7 +9270,10 @@
     ],
     "productName": "LEDUS TĒJA NESTEA CITRUSAUGĻU 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.26,
       "unit": "€/KG"
@@ -9372,6 +9531,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001001
+    ],
     "productName": "ĀBOLI GOLDEN DELICIUS 1KG",
     "productPriceOld": {
       "value": 1.55,
@@ -9389,12 +9553,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/11/aboli-300x300.jpg",
     "available": true,
-    "discount": 17,
-    "categories": [
-      3,
-      3001,
-      3001001
-    ]
+    "discount": 17
   },
   {
     "shop": "RIMI",
@@ -9759,7 +9918,10 @@
     ],
     "productName": "IĻĢUCIEMA PORTER KVASS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/L"
@@ -9779,7 +9941,10 @@
     ],
     "productName": "KVASS IĻĢUCIEMA 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/L"
@@ -9799,7 +9964,10 @@
     ],
     "productName": "KVASS BALTAIS NEFILTRĒTS RAUDZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/L"
@@ -9819,7 +9987,10 @@
     ],
     "productName": "KVASS BALTAIS NEFILTRĒTS RAUDZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/L"
@@ -9839,7 +10010,10 @@
     ],
     "productName": "KVASS NEFILTRĒTS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/L"
@@ -9885,7 +10059,10 @@
     ],
     "productName": "BALTMAIZE ZEMNIEKU 300G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.3,
       "unit": "€/KG"
@@ -10619,7 +10796,10 @@
     ],
     "productName": "DZĒRIENS FRUTTO VASARAS OGU MIX 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -10639,7 +10819,10 @@
     ],
     "productName": "SULAS DZĒRIENS FRUTTO AUGĻU DĀRZA MIX 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -10659,7 +10842,10 @@
     ],
     "productName": "SULAS DZĒRIENS FRUTTO MULTIAUGĻU 15% 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -10679,7 +10865,10 @@
     ],
     "productName": "KVASS DZELTENĀ MUCA ĪSTAIS 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -10699,7 +10888,10 @@
     ],
     "productName": "DZĒRIENS PEPSI COLA GĀZ. 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -10719,7 +10911,10 @@
     ],
     "productName": "DZĒRIENS PEPSI MAX BEZKALORIJU GĀZĒTS 1.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.33,
       "unit": "€/L"
@@ -11294,7 +11489,10 @@
     ],
     "productName": "LIMONĀDE KLASISKĀ LIMONĀDE 0.5L CĒSU ALUS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.38,
       "unit": "€/L"
@@ -12468,7 +12666,10 @@
     ],
     "productName": "NEKTĀRS ELMENHORSTER MULTIVITAMĪNU 50% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.45,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.45,
       "unit": "€/L"
@@ -13063,7 +13264,10 @@
     ],
     "productName": "ELMENHORSTER SARKANO VĪNOGU NEKTĀRS 50% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.49,
       "unit": "€/L"
@@ -13076,6 +13280,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      30020010
+    ],
     "productName": "SĪKSĪPOLI DZELTENIE FAS.KG",
     "productPriceOld": {
       "value": 2.19,
@@ -13093,15 +13302,15 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2025/03/03666-300x300.jpg",
     "available": true,
-    "discount": 32,
-    "categories": [
-      3,
-      3002,
-      30020010
-    ]
+    "discount": 32
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002003
+    ],
     "productName": "KARTUPEĻI SALDIE KG",
     "productPriceOld": {
       "value": 1.99,
@@ -13119,15 +13328,15 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/15155-300x300.jpg",
     "available": true,
-    "discount": 25,
-    "categories": [
-      3,
-      3002,
-      3002003
-    ]
+    "discount": 25
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001005
+    ],
     "productName": "APELSĪNI VALENSIJA KG",
     "productPriceOld": {
       "value": 1.79,
@@ -13145,12 +13354,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/apelsini-300x300.jpg",
     "available": true,
-    "discount": 17,
-    "categories": [
-      3,
-      3001,
-      3001005
-    ]
+    "discount": 17
   },
   {
     "shop": "RIMI",
@@ -13389,7 +13593,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. COCA-COLA 2L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.5,
       "unit": "€/L"
@@ -13409,7 +13616,10 @@
     ],
     "productName": "DZĒRIENS VESELĪBAS IĻĢUCIEMA 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.5,
       "unit": "€/L"
@@ -13471,6 +13681,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "SKĀBĒTI KĀPOSTI MARINĀDĒ SPICIE 850G DIMDIŅI",
     "productPriceOld": {
       "value": 1.79,
@@ -13488,12 +13703,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/4751001620662-300x300.jpg",
     "available": true,
-    "discount": 28,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": 28
   },
   {
     "shop": "RIMI",
@@ -14634,7 +14844,10 @@
     ],
     "productName": "ALUS BOCMANIS DZINTARJŪRAS 5.8% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.59,
       "unit": "€/L"
@@ -14654,7 +14867,10 @@
     ],
     "productName": "SULA ELMENHORSTER ĀBOLU 100% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.59,
       "unit": "€/L"
@@ -14674,7 +14890,10 @@
     ],
     "productName": "SULA TOMĀTU CIDO 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.59,
       "unit": "€/L"
@@ -15137,7 +15356,10 @@
     ],
     "productName": "ALUS HOLSTEN SKĀRD. 4.5% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.83,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.66,
       "unit": "€/L"
@@ -15157,7 +15379,10 @@
     ],
     "productName": "NEKTĀRS CIDO FRUTTO APELSĪNU 50% 1.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.66,
       "unit": "€/L"
@@ -15246,7 +15471,10 @@
     ],
     "productName": "DZĒRIENS VITAMIN PERFORMANCE POWER 0.75L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.67,
       "unit": "€/L"
@@ -15673,7 +15901,10 @@
     ],
     "productName": "SULA ELMENHORSTER TOMĀTU 100% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/L"
@@ -15693,7 +15924,10 @@
     ],
     "productName": "CIDO SULA MIX MULTIAUGĻU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/L"
@@ -15713,7 +15947,10 @@
     ],
     "productName": "NEKTĀRS TYMBARK SARKANO GREIPFRŪTU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/L"
@@ -15733,7 +15970,10 @@
     ],
     "productName": "SULA TYMBARK TOMĀTU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/KG"
@@ -15753,7 +15993,10 @@
     ],
     "productName": "NEKTĀRS TYMBARK APELSĪNU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/L"
@@ -15773,7 +16016,10 @@
     ],
     "productName": "SULA TYMBARK MULTIAUGĻU BURKĀNU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.69,
       "unit": "€/L"
@@ -15989,7 +16235,10 @@
     ],
     "productName": "ALUS CĒSU GRUNBERGER 5% 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.7,
       "unit": "€/L"
@@ -16432,7 +16681,10 @@
     ],
     "productName": "ENERĢ.DZ.DYNAMIT PINT 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.74,
       "unit": "€/L"
@@ -17113,7 +17365,10 @@
     ],
     "productName": "SULAS DZĒRIENS NEGĀZĒTS AR VIT.TROPU AUGĻU UN BURKĀNU 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.78,
       "unit": "€/L"
@@ -17133,7 +17388,10 @@
     ],
     "productName": "DZĒRIENS SUPER MANKI ORIGINAL FLAVOUR 0.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.78,
       "unit": "€/L"
@@ -17146,9 +17404,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002007
+    ],
     "productName": "BIETES VĀRĪTAS KOK 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.78,
       "unit": "€/KG"
@@ -17157,18 +17423,21 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/09/4751010862473-300x300.jpg",
     "available": true,
-    "discount": null,
+    "discount": null
+  },
+  {
+    "shop": "CITRO",
     "categories": [
       3,
       3002,
       3002007
-    ]
-  },
-  {
-    "shop": "CITRO",
+    ],
     "productName": "BIETES VĀRĪTAS 500G EZERKAULIŅI",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.78,
       "unit": "€/KG"
@@ -17177,12 +17446,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/09/4752052003701-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002007
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -17793,7 +18057,10 @@
     ],
     "productName": "DRUVA RUPJM. KLONA GR. 700G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.79,
       "unit": "€/KG"
@@ -17806,9 +18073,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001007
+    ],
     "productName": "POMELO KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.79,
       "unit": "€/KG"
@@ -17817,12 +18092,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/11096-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001007
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -17878,6 +18148,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002004
+    ],
     "productName": "SKĀBĒTI KĀPOSTI AR BURKĀNIEM 550G DIMDIŅI",
     "productPriceOld": {
       "value": 1.39,
@@ -17895,12 +18170,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/02/4751001623403-300x300.jpg",
     "available": true,
-    "discount": 29,
-    "categories": [
-      3,
-      3002,
-      3002004
-    ]
+    "discount": 29
   },
   {
     "shop": "MAXIMA",
@@ -18372,7 +18642,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. SPRITE 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.85,
       "unit": "€/L"
@@ -18392,7 +18665,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. COCA-COLA ZERO 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.85,
       "unit": "€/L"
@@ -18412,7 +18688,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. COCA-COLA ZERO 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.85,
       "unit": "€/L"
@@ -18432,7 +18711,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. FANTA ORANGE 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.85,
       "unit": "€/L"
@@ -18452,7 +18734,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. COCA-COLA 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.85,
       "unit": "€/L"
@@ -18736,9 +19021,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001003
+    ],
     "productName": "BANĀNI PREMIUM KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.89,
       "unit": "€/KG"
@@ -18747,12 +19040,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/06026-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001003
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -18950,7 +19238,10 @@
     ],
     "productName": "ALUS ALDARIS GAIŠAIS 5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.92,
       "unit": "€/L"
@@ -18970,7 +19261,10 @@
     ],
     "productName": "ALUS ALDARIS ZELTA PINTE 5.2% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.92,
       "unit": "€/L"
@@ -19078,9 +19372,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002004
+    ],
     "productName": "SKĀBĒTI KĀPOSTI AR BURKĀNIEM EZERKAULIŅI 800G PACIŅĀ",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.94,
       "unit": "€/KG"
@@ -19089,12 +19391,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/08/4751000814567-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002004
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -19494,7 +19791,10 @@
     ],
     "productName": "DZĒRIENS VITA TIGRA VĪNOGU PERSIKU 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.95,
       "unit": "€/L"
@@ -19514,7 +19814,10 @@
     ],
     "productName": "DZĒRIENS VITA TIGRA APELSĪNU PERSIKU BANĀNU 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.95,
       "unit": "€/L"
@@ -19534,7 +19837,10 @@
     ],
     "productName": "CIDO SULA ĀBOLU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.95,
       "unit": "€/L"
@@ -20627,7 +20933,10 @@
     ],
     "productName": "ALUS CĒSU SENČU ORIGIN. 4.6% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.98,
       "unit": "€/L"
@@ -22013,7 +22322,10 @@
     ],
     "productName": "ALUS ALDARIS APINĪTIS PILZENES 4.2% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/L"
@@ -22059,7 +22371,10 @@
     ],
     "productName": "ALUS CĒSU MIEZĪTIS STIPRAIS 5.8% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/L"
@@ -22079,7 +22394,10 @@
     ],
     "productName": "LIMONĀDE BAIKĀLS CHERNOGOLOVKA 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/L"
@@ -22099,7 +22417,10 @@
     ],
     "productName": "LIMONĀDE BURATĪNO CHERNOGOLOVKA 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/L"
@@ -22119,7 +22440,10 @@
     ],
     "productName": "LIMONĀDE TARHŪNS CHERNOGOLOVKA 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/L"
@@ -22159,9 +22483,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001004
+    ],
     "productName": "BUMBIERI CONFERENCE 65+ KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/KG"
@@ -22170,18 +22502,21 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/09/Bumbieri-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001004
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "KĀPOSTI JAUNIE KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/KG"
@@ -22190,18 +22525,20 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/kaposts2-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3004
+    ],
     "productName": "PURAVI 1KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 1.99,
       "unit": "€/KG"
@@ -22210,11 +22547,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/08/puravs-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3004
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -22491,7 +22824,10 @@
     ],
     "productName": "ALUS ALDARIS PILZENES 4.2% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.02,
       "unit": "€/L"
@@ -22995,7 +23331,10 @@
     ],
     "productName": "ALUS ALDARIS APINĪTIS TUMŠAIS 5.8% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.09,
       "unit": "€/L"
@@ -23015,7 +23354,10 @@
     ],
     "productName": "ALUS ALDARIS APINĪTIS STIPRAIS 5.8% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.09,
       "unit": "€/L"
@@ -23035,7 +23377,10 @@
     ],
     "productName": "DZĒRIENS NJOY CITRONU-LAIMA 0.33L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.09,
       "unit": "€/L"
@@ -23162,7 +23507,10 @@
     ],
     "productName": "ALUS CĒSU BRŪŽA NEFILTRĒTAIS 5.4% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.05,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.1,
       "unit": "€/L"
@@ -23182,7 +23530,10 @@
     ],
     "productName": "ALUS LIELVĀRDES TRADICIONĀLAIS 5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.05,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.1,
       "unit": "€/L"
@@ -23202,7 +23553,10 @@
     ],
     "productName": "ALUS PIEBALGAS SENČU 4.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.05,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.1,
       "unit": "€/L"
@@ -23293,9 +23647,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "MARINĒTI KĀPOSTI CITRO 900G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.1,
       "unit": "€/KG"
@@ -23304,12 +23666,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/04/2309736000000-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -24101,7 +24458,10 @@
     ],
     "productName": "ALUS BAUSKAS SENČU GAIŠAIS 4% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.18,
       "unit": "€/L"
@@ -24465,7 +24825,10 @@
     ],
     "productName": "MINERĀLŪDENS NATURAL MINERAL WATER BORJOMI 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.19,
       "unit": "€/L"
@@ -24478,9 +24841,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      30010010
+    ],
     "productName": "GREIPFRŪTI SARKANIE LIELIE STAR RUBY KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.19,
       "unit": "€/KG"
@@ -24489,12 +24860,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/greipfruti-1-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      30010010
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -24615,7 +24981,10 @@
     ],
     "productName": "SULA LIMPA ZEMEŅU 0.25L TETRA",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.2,
       "unit": "€/L"
@@ -24635,7 +25004,10 @@
     ],
     "productName": "SULA LIMPA MULTIAUGĻU 0.25L TETRA",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.2,
       "unit": "€/L"
@@ -25212,7 +25584,10 @@
     ],
     "productName": "SULA TYMBARK VITAMINI PERSIKS-BURKĀNS-ĀBOLS 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.25,
       "unit": "€/L"
@@ -25382,7 +25757,10 @@
     ],
     "productName": "ALUS CĒSU PREMIUM ORIGINAL 5% 0.568L PUD",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.27,
       "unit": "€/L"
@@ -25402,7 +25780,10 @@
     ],
     "productName": "ALUS LĀČPLĒSIS DZINTARA PINTE 4.8% 0.568 CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.27,
       "unit": "€/L"
@@ -25602,9 +25983,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001002
+    ],
     "productName": "CITRONI PRIMOFIORI KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.29,
       "unit": "€/KG"
@@ -25613,12 +26002,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/06005-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001002
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -25828,7 +26212,10 @@
     ],
     "productName": "ALUS KOKT. BEZALK. ZELTA RADLER GRAPEFRUIT 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.3,
       "unit": "€/L"
@@ -27376,7 +27763,10 @@
     ],
     "productName": "ALUS CĒSU PREMIUM ORIGINAL 5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.35,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.38,
       "unit": "€/L"
@@ -27396,7 +27786,10 @@
     ],
     "productName": "ALUS CĒSU PREMIUM AMBER  5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.35,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.38,
       "unit": "€/L"
@@ -27918,7 +28311,10 @@
     ],
     "productName": "ALK.KOKT. SHERWOOD BLACKCURRANT 4.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.39,
       "unit": "€/L"
@@ -27938,7 +28334,10 @@
     ],
     "productName": "SIDRS SHERWOOD WILD STRAWBERRY 4.5% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.39,
       "unit": "€/L"
@@ -28088,7 +28487,10 @@
     ],
     "productName": "SIDRS SHERWOOD RASPBERRY LIME 4.5% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.39,
       "unit": "€/L"
@@ -28275,7 +28677,10 @@
     ],
     "productName": "ALUS CĒSU BRŪŽA NEFILTRĒTAIS 5.4% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.45,
       "unit": "€/L"
@@ -28295,7 +28700,10 @@
     ],
     "productName": "ALUS CĒSU PREMIUM BOHEMIAN 4.5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.45,
       "unit": "€/L"
@@ -29254,7 +29662,10 @@
     ],
     "productName": "MAIZE RUDZU KURŠU SĒKLU 800G HM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.49,
       "unit": "€/KG"
@@ -29594,7 +30005,10 @@
     ],
     "productName": "KVASS TĒRVETES GODU 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.5,
       "unit": "€/L"
@@ -30034,7 +30448,10 @@
     ],
     "productName": "ALUS CĒSU MĪTAVA PINTE 5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.45,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.55,
       "unit": "€/L"
@@ -30917,7 +31334,10 @@
     ],
     "productName": "ALUS LĀČPLĒSIS GAIŠAIS 5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.58,
       "unit": "€/L"
@@ -30937,7 +31357,10 @@
     ],
     "productName": "ALUS PIEBALGAS 5.6% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.58,
       "unit": "€/L"
@@ -30957,7 +31380,10 @@
     ],
     "productName": "DZĒRIENS DR PEPPER ĶIRŠU 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.58,
       "unit": "€/L"
@@ -30977,7 +31403,10 @@
     ],
     "productName": "DZĒRIENS DR PEPPER 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.58,
       "unit": "€/L"
@@ -31345,7 +31774,10 @@
     ],
     "productName": "NEKTĀRS CIDO GRANĀTĀBOLU 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.59,
       "unit": "€/L"
@@ -31365,7 +31797,10 @@
     ],
     "productName": "SULA TYMBARK APELSĪNU-BUMBIERU-PERSIKU 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.52,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.6,
       "unit": "€/L"
@@ -31385,7 +31820,10 @@
     ],
     "productName": "TYMBARK ĀBOLU-ARONIJU-ĶIRŠU-ZEMEŅU DZĒR.0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.52,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.6,
       "unit": "€/L"
@@ -31405,7 +31843,10 @@
     ],
     "productName": "SULAS DZĒRIENS ZOO ICE BANĀNU-ZEMEŅU 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.52,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.6,
       "unit": "€/L"
@@ -31425,7 +31866,10 @@
     ],
     "productName": "DZĒRIENS TYMBARK PLANES ĀBOLU UN PERSIKU 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.52,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.6,
       "unit": "€/L"
@@ -31632,7 +32076,10 @@
     ],
     "productName": "ALUS ALDARIS TUBORG GREEN 4.6% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.62,
       "unit": "€/L"
@@ -31652,7 +32099,10 @@
     ],
     "productName": "ALUS ALDARIS LUKSUS 5.2% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.62,
       "unit": "€/L"
@@ -31662,6 +32112,32 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/03/4750049002553-300x300.jpg",
     "available": true,
     "discount": null
+  },
+  {
+    "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      2001002
+    ],
+    "productName": "MAIZE DRUVA ZELTA MĀKOŅMAIZE 450G",
+    "productPriceOld": {
+      "value": 1.69,
+      "unit": "€"
+    },
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
+    "productPricePerUnit": {
+      "value": 2.64,
+      "unit": "€/KG"
+    },
+    "productPriceWithLoyaltyCard": null,
+    "productPricePerUnitWithLoyaltyCard": null,
+    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/05/4750212903021-300x300.jpg",
+    "available": true,
+    "discount": 30
   },
   {
     "shop": "CITRO",
@@ -32441,7 +32917,10 @@
     ],
     "productName": "NEKTĀRS ELMENHORSTER DZĒRVEŅU 30% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.69,
       "unit": "€/L"
@@ -32461,7 +32940,10 @@
     ],
     "productName": "MAIZE LATVIJAS ZELTENE SALDSKĀBMAIZE GAIŠĀ 800G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.69,
       "unit": "€/KG"
@@ -32481,7 +32963,10 @@
     ],
     "productName": "MAIZE LATVIJAS GRAUDU RUDZU 800G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.69,
       "unit": "€/KG"
@@ -32924,7 +33409,10 @@
     ],
     "productName": "MINERĀLŪDENS BORJOMI 0.5L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.35,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.7,
       "unit": "€/L"
@@ -33009,9 +33497,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002007
+    ],
     "productName": "BIETES VĀRĪTAS, RĪVĒTAS MARINĀDĒ 350G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.71,
       "unit": "€/KG"
@@ -33020,12 +33516,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/08/4751001624066-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002007
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -33059,7 +33550,10 @@
     ],
     "productName": "ALUS ALDARIS CARLSBERG 5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.73,
       "unit": "€/L"
@@ -33247,7 +33741,10 @@
     ],
     "productName": "DZĒRIENS CAPRI-SUN MULTIVITAMIN 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.75,
       "unit": "€/L"
@@ -33267,7 +33764,10 @@
     ],
     "productName": "DZĒRIENS CAPRI-SUN MYSTIC DRAGON 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.75,
       "unit": "€/L"
@@ -33898,7 +34398,10 @@
     ],
     "productName": "ALUS CĒSU LIGHT BEER 4.2% 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -33918,7 +34421,10 @@
     ],
     "productName": "ENERĢIJAS DZĒR. BATTERY 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -33938,7 +34444,10 @@
     ],
     "productName": "ENERĢIJAS DZĒR. BATTERY 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -33958,7 +34467,10 @@
     ],
     "productName": "ENERĢIJAS DZĒRIENS CULT ORIGINAL 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -33971,9 +34483,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      1,
+      1002,
+      10010022
+    ],
     "productName": "ENERĢIJAS DZERIENS DYNAMI:T STAR 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -33982,18 +34502,21 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/4750142007240-300x300.jpg",
     "available": true,
-    "discount": null,
+    "discount": null
+  },
+  {
+    "shop": "CITRO",
     "categories": [
       1,
       1002,
       10010022
-    ]
-  },
-  {
-    "shop": "CITRO",
+    ],
     "productName": "ENERĢIJAS DZERIENS DYNAMI:T GUANABANA 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.78,
       "unit": "€/L"
@@ -34002,12 +34525,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/4750142007233-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      1,
-      1002,
-      10010022
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -34304,7 +34822,10 @@
     ],
     "productName": "ALUS PIEBALGAS MEDALUS 5,6% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.79,
       "unit": "€/L"
@@ -35010,7 +35531,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. FANTA ORANGE 0.33L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.88,
       "unit": "€/L"
@@ -35030,7 +35554,10 @@
     ],
     "productName": "DZĒRIENS GĀZ. COCA-COLA 0.33L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.88,
       "unit": "€/L"
@@ -35050,7 +35577,10 @@
     ],
     "productName": "DZĒRIENS GĀZĒTS SUPER MANKI 0.33L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.88,
       "unit": "€/L"
@@ -35070,7 +35600,10 @@
     ],
     "productName": "DZĒRIENS SUPER MANKI BANANA 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.88,
       "unit": "€/L"
@@ -35080,32 +35613,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/09/4750049004137-300x300.jpg",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      2,
-      2001,
-      2001004
-    ],
-    "productName": "MAIZE GARDĀ RUDZU PUSKLAIPS 400G FAZER",
-    "productPriceOld": {
-      "value": 1.39,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.15,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.88,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/05/4750212902062-300x300.jpg",
-    "available": true,
-    "discount": 17
   },
   {
     "shop": "RIMI",
@@ -35686,32 +36193,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_4006190_PCE_LV",
     "available": true,
     "discount": 16
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      2,
-      2001,
-      2001004
-    ],
-    "productName": "RUDZU MAIZE DRUVA SPĒKAVOTA PUSĪTE 390G FAZER",
-    "productPriceOld": {
-      "value": 1.29,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.15,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.95,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/05/4750212901089-300x300.jpg",
-    "available": true,
-    "discount": 11
   },
   {
     "shop": "MAXIMA",
@@ -36917,7 +37398,10 @@
     ],
     "productName": "ALUS MEŽPILS SENČU 4.5% 0.568L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37015,7 +37499,10 @@
     ],
     "productName": "SIDRS DĀRZA BĀRBELES 5,5% 0.5L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37035,7 +37522,10 @@
     ],
     "productName": "ALUS LIDO DZIRNAVU 5% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37055,7 +37545,10 @@
     ],
     "productName": "ALUS LIDO SPECIĀLAIS 4.8% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37075,7 +37568,10 @@
     ],
     "productName": "ALUS SENČU 4.2% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37095,7 +37591,10 @@
     ],
     "productName": "KUBUŠ SULAS DZĒR. PLAY/BURK./AVEŅU/LAIMA 400ML",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37115,7 +37614,10 @@
     ],
     "productName": "DZĒRIENS KUBUS PLAY ARBŪZU 0.4L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -37135,7 +37637,10 @@
     ],
     "productName": "MINERĀLŪDENS NATURAL MINERAL WATER BORJOMI 0.5L GLASS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 2.98,
       "unit": "€/L"
@@ -39259,7 +39764,10 @@
     ],
     "productName": "MAIZE RUDZU ZELTENE 1/2 390G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.05,
       "unit": "€/KG"
@@ -40212,7 +40720,10 @@
     ],
     "productName": "ALUS CĒSU MĪTAVA 5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.1,
       "unit": "€/L"
@@ -40232,7 +40743,10 @@
     ],
     "productName": "ALUS ALDARIS MEŽPILS SENČU 4.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.1,
       "unit": "€/L"
@@ -41411,7 +41925,10 @@
     ],
     "productName": "ALUS ALDARIS CARLSBERG 5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.18,
       "unit": "€/L"
@@ -41457,7 +41974,10 @@
     ],
     "productName": "ENERĢ.DZĒR. MONSTER MONSTER MANGO LOCO 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.18,
       "unit": "€/L"
@@ -41603,7 +42123,10 @@
     ],
     "productName": "SIDRS SOMERSBY PEAR 4.5% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.19,
       "unit": "€/L"
@@ -42972,7 +43495,10 @@
     ],
     "productName": "BALTMAIZE LIELKUNGU 600G HANZASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.32,
       "unit": "€/KG"
@@ -43678,7 +44204,10 @@
     ],
     "productName": "ALUS BEZALK. MEŽPILS NO-ALC 0.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.38,
       "unit": "€/L"
@@ -43882,7 +44411,10 @@
     ],
     "productName": "SIDRS ĀBOLU LUCKY DOG AR VANIĻAS GARŠU 5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.39,
       "unit": "€/L"
@@ -44662,7 +45194,10 @@
     ],
     "productName": "SIDRS SOMERSBY BLUE LEMON LIGHT 4.5% 1L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.49,
       "unit": "€/L"
@@ -44675,9 +45210,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001009
+    ],
     "productName": "KIVI HAIWARD KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.49,
       "unit": "€/KG"
@@ -44686,12 +45229,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/kivi-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001009
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -45082,7 +45620,10 @@
     ],
     "productName": "ALUS ALDARIS IZLASES ĶIRŠU 4.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.75,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.5,
       "unit": "€/L"
@@ -45256,9 +45797,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002004
+    ],
     "productName": "KĀPOSTI SKĀBĒTI AR BURKĀNIEM 650G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.52,
       "unit": "€/KG"
@@ -45267,12 +45816,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/09/4751001624349-300x300.webp",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002004
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -45479,7 +46023,10 @@
     ],
     "productName": "LATVIJASM SALDSKĀBMAIZE ĪSTENĀ 730G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.55,
       "unit": "€/KG"
@@ -45642,32 +46189,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_273093_PCE_LV",
     "available": true,
     "discount": 21
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      2,
-      2001,
-      2001002
-    ],
-    "productName": "MAIZE KEFĪRA VĒRTĪGĀ BALTMAIZE 350G FAZER",
-    "productPriceOld": {
-      "value": 1.35,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.25,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 3.57,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/4750212901447-300x300.jpg",
-    "available": true,
-    "discount": 7
   },
   {
     "shop": "RIMI",
@@ -46125,7 +46646,10 @@
     ],
     "productName": "SIDRS DĀRZA MEŽAOGU 5.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.58,
       "unit": "€/L"
@@ -46145,7 +46669,10 @@
     ],
     "productName": "ALUS MEŽPILS 5.3% 0.5L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.58,
       "unit": "€/L"
@@ -46165,7 +46692,10 @@
     ],
     "productName": "ALUS MEŽPILS 5.3% 0.5L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.58,
       "unit": "€/L"
@@ -46185,7 +46715,10 @@
     ],
     "productName": "ALUS BEZALK. BAUSKAS 0% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.58,
       "unit": "€/L"
@@ -46575,7 +47108,10 @@
     ],
     "productName": "ENERĢIJAS DZĒRIENS BATTERY JUICED BREEZE 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.61,
       "unit": "€/L"
@@ -46595,7 +47131,10 @@
     ],
     "productName": "ENERĢIJAS DZĒRIENS BATTERY JUICED CITRUS 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.61,
       "unit": "€/L"
@@ -47199,9 +47738,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3003,
+      3003002
+    ],
     "productName": "PLŪMES SARKANĀS 1KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.69,
       "unit": "€/KG"
@@ -47210,12 +47757,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/04/06054-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3003,
-      3003002
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -47898,7 +48440,10 @@
     ],
     "productName": "ALUS TĒRVETE ĶIRŠU 4% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.85,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.7,
       "unit": "€/L"
@@ -47967,7 +48512,10 @@
     ],
     "productName": "TOSTERMAIZE GARDĀ MINI 240G FAZER",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.71,
       "unit": "€/KG"
@@ -48654,7 +49202,10 @@
     ],
     "productName": "ALUS BAUSKAS SPECIĀLAIS TUMŠAIS 5.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.78,
       "unit": "€/L"
@@ -48674,7 +49225,10 @@
     ],
     "productName": "ALUS TĒRVETE ORIĢINĀLAIS 5.4% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.78,
       "unit": "€/L"
@@ -48694,7 +49248,10 @@
     ],
     "productName": "LATVIJASM TOSTERMAIZE KRAUKŠĶĪGĀ 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.78,
       "unit": "€/KG"
@@ -48921,7 +49478,10 @@
     ],
     "productName": "SULA TYMBARK BALTO VĪNOGU ALVEJAS 0.25L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.8,
       "unit": "€/L"
@@ -48941,7 +49501,10 @@
     ],
     "productName": "SULA TYMBARK ĶIRŠU-ĀBOLU 0.25L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.8,
       "unit": "€/L"
@@ -48961,7 +49524,10 @@
     ],
     "productName": "DZĒRIENS TYMBARK APELSĪNU-PERSIKU 0.25L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.8,
       "unit": "€/L"
@@ -49353,7 +49919,10 @@
     ],
     "productName": "ALUS MEDALUS ORIĢ. IĻĢUCIEMA 5.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.9,
       "unit": "€/L"
@@ -49685,7 +50254,10 @@
     ],
     "productName": "KAFIJAS DZĒRIENS EIS COFFEE 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.96,
       "unit": "€/KG"
@@ -49705,7 +50277,10 @@
     ],
     "productName": "KAFIJAS DZĒRIENS EIS COFFEE 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.96,
       "unit": "€/KG"
@@ -50647,7 +51222,10 @@
     ],
     "productName": "ALUS KOKT. GARAGE HARD ORANGE 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50667,7 +51245,10 @@
     ],
     "productName": "ALUS KOKT. GARAGE HARD TROPICAL 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50687,7 +51268,10 @@
     ],
     "productName": "ALK.KOKT. GARAGE HARD LEMON 4% 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50707,7 +51291,10 @@
     ],
     "productName": "ALUS TĒRVETE TUMŠAIS 5.4% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50727,7 +51314,10 @@
     ],
     "productName": "ALUS MADONAS TUMŠAIS 5.2% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50747,7 +51337,10 @@
     ],
     "productName": "ALUS MADONAS NEFILTRĒTS 5.6% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/L"
@@ -50767,7 +51360,10 @@
     ],
     "productName": "BALTMAIZE RUDZU LIELMAIZE 500G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/KG"
@@ -50787,7 +51383,10 @@
     ],
     "productName": "MAIZE KEFĪRA LIELMAIZE 500G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/KG"
@@ -50807,7 +51406,10 @@
     ],
     "productName": "BALTMAIZE RUDZU LIELMAIZE 500G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/KG"
@@ -50820,9 +51422,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "KĀPOSTI ŠTOVĒTI DIMDIŅI PACIŅĀ 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.98,
       "unit": "€/KG"
@@ -50831,12 +51441,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/4751001620624-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -51216,7 +51821,10 @@
     ],
     "productName": "DZĒRIENS ZELTA MEŽEZERS DZIRKSTOŠAIS 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.99,
       "unit": "€/L"
@@ -51229,9 +51837,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002001
+    ],
     "productName": "TOMĀTI SARKANI ĶEKAROS KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 3.99,
       "unit": "€/KG"
@@ -51240,12 +51856,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/07/TomatiZaros-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002001
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -52774,7 +53385,10 @@
     ],
     "productName": "ALUS KOKT. DLIGHT ENERGY FLAVOR 2.9% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.21,
       "unit": "€/L"
@@ -52794,7 +53408,10 @@
     ],
     "productName": "ALUS KOKT. DLIGHT LEMON 2.9% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.21,
       "unit": "€/L"
@@ -52814,7 +53431,10 @@
     ],
     "productName": "ENERĢIJAS DZĒR. BATTERY FRESH 0.5L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.21,
       "unit": "€/L"
@@ -53057,9 +53677,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "KĀPOSTI ŠTOVĒTI DIMDIŅI 700G SPAINĪTIS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.27,
       "unit": "€/KG"
@@ -53068,12 +53696,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/11/4751001624295-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -53123,9 +53746,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002001
+    ],
     "productName": "TOMĀTI KUMATO KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 4.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.29,
       "unit": "€/KG"
@@ -53134,12 +53765,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/TomatiKumato-1-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002001
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -53531,7 +54157,10 @@
     ],
     "productName": "MAIZE LATVIJAS GRAUDU SĒKLU 300G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.3,
       "unit": "€/KG"
@@ -53544,9 +54173,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002009
+    ],
     "productName": "KĀPOSTI ŠTOVĒTI AR KARAMELIZĒTIEM SĪPOLIEM 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.3,
       "unit": "€/KG"
@@ -53555,12 +54192,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/01/4751001623960-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002009
-    ]
+    "discount": null
   },
   {
     "shop": "MAXIMA",
@@ -54521,7 +55153,10 @@
     ],
     "productName": "ALUS MEŽPILS MĀKONIS 5.0% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.38,
       "unit": "€/L"
@@ -54541,7 +55176,10 @@
     ],
     "productName": "ALUS MEDALUS DZĒRVEŅU ĀBOLU IĻĢUCIEMA 5.5% 0.5L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.38,
       "unit": "€/L"
@@ -56095,7 +56733,10 @@
     ],
     "productName": "ALUS ALDARIS TUBORG 4.6% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.52,
       "unit": "€/L"
@@ -56115,7 +56756,10 @@
     ],
     "productName": "ALUS TUBORG ICE 4.2% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.52,
       "unit": "€/L"
@@ -56135,7 +56779,10 @@
     ],
     "productName": "ALUS TUBORG LIME CUT 4.5% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.52,
       "unit": "€/L"
@@ -56155,7 +56802,10 @@
     ],
     "productName": "SIDRS SOMERSBY APPLE 4.5% 0.33L PUD",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.52,
       "unit": "€/L"
@@ -56705,9 +57355,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3003,
+      3003001
+    ],
     "productName": "VĪNOGAS RED GLOBE KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 4.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.59,
       "unit": "€/KG"
@@ -56716,12 +57374,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/Vinogas-Red-globe-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3003,
-      3003001
-    ]
+    "discount": null
   },
   {
     "shop": "MAXIMA",
@@ -57910,9 +58563,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      20010014
+    ],
     "productName": "GARDMAIZE SENČU MAIZE AR ĶIMENĒM 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.78,
       "unit": "€/KG"
@@ -57921,12 +58582,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/10/4750192733502.png",
     "available": true,
-    "discount": null,
-    "categories": [
-      2,
-      2001,
-      20010014
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
@@ -57937,7 +58593,10 @@
     ],
     "productName": "GARDMAIZE LIEPU MAIZE AR MEDU 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 4.78,
       "unit": "€/KG"
@@ -58665,6 +59324,29 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/cc1782e7-df31-4897-8626-99d32d6e67dd_s.png",
+    "available": true,
+    "discount": null
+  },
+  {
+    "shop": "CITRO",
+    "categories": [
+      1,
+      1001,
+      1001003
+    ],
+    "productName": "VĪNA DZĒRIENS ESCANZA SECCO 8.5% 0.2L BUNDŽA",
+    "productPriceOld": null,
+    "productPrice": {
+      "value": 0.99,
+      "unit": "€"
+    },
+    "productPricePerUnit": {
+      "value": 4.95,
+      "unit": "€/L"
+    },
+    "productPriceWithLoyaltyCard": null,
+    "productPricePerUnitWithLoyaltyCard": null,
+    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/11/4770477232131-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -60833,7 +61515,10 @@
     ],
     "productName": "ALUS MILLER 4.7% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.12,
       "unit": "€/L"
@@ -61065,9 +61750,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002005
+    ],
     "productName": "SĒNES ŠAMPINJONI FASĒTI 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.16,
       "unit": "€/KG"
@@ -61076,18 +61769,21 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/Sampinjoni-faseti-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002005
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002005
+    ],
     "productName": "SĒNES ŠAMPINJONI FASĒTI 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.16,
       "unit": "€/KG"
@@ -61096,12 +61792,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/Sampinjoni-faseti-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002005
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -61204,7 +61895,10 @@
     ],
     "productName": "DZ.VĪNA DZĒRIENS ZOLOTOJE PRAZDNICNOJE 10% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.19,
       "unit": "€/L"
@@ -61681,9 +62375,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002002
+    ],
     "productName": "ĶIPLOKI KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.29,
       "unit": "€/KG"
@@ -61692,12 +62394,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/10/Kiploki2-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002002
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -63099,7 +63796,10 @@
     ],
     "productName": "ALK.KOKT.HARTWALL ORIGINAL LONG DRINK CRANBERRY 5.5% 0.33L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.42,
       "unit": "€/L"
@@ -64037,7 +64737,10 @@
     ],
     "productName": "AKL.KOKT.SHAKE CLUB CRANBERRY-APPLE 14.5% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.58,
       "unit": "€/L"
@@ -64057,7 +64760,10 @@
     ],
     "productName": "ALK. KOKT.CĒSU ĶIRSĪTIS 14% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.58,
       "unit": "€/L"
@@ -64077,7 +64783,10 @@
     ],
     "productName": "ALK.KOKT. CĒSU G&GRAPEFR 14% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.58,
       "unit": "€/L"
@@ -64573,28 +65282,12 @@
       2,
       2005
     ],
-    "productName": "ŠTRICELE AR KANĒLI 300G",
-    "productPriceOld": null,
-    "productPrice": null,
-    "productPricePerUnit": {
-      "value": 5.63,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/99467-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      2,
-      2005
-    ],
     "productName": "ŠTRICELE AR MAGONĒM 300G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.63,
       "unit": "€/KG"
@@ -65145,7 +65838,10 @@
     ],
     "productName": "DZ.VĪNS BOSCA ANNIVERSARY GOLD LABEL SWEET 7.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 4.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.72,
       "unit": "€/L"
@@ -65513,7 +66209,10 @@
     ],
     "productName": "ALUS LEFFE BLONDE 6.6% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.73,
       "unit": "€/L"
@@ -65533,7 +66232,10 @@
     ],
     "productName": "ALUS LEFFE BRUN OW 6.5% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.73,
       "unit": "€/L"
@@ -66552,7 +67254,10 @@
     ],
     "productName": "ENERĢIJAS DZĒRIENS RED BULL SUGAR FREE 0.25L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.96,
       "unit": "€/L"
@@ -67012,7 +67717,10 @@
     ],
     "productName": "SAUSIŅI AR ROZĪNĒM BIG PACK 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.98,
       "unit": "€/KG"
@@ -67032,7 +67740,10 @@
     ],
     "productName": "SAUSIŅI PIENA AR IEBIEZINĀTU PIENU BIG PACK 500G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.98,
       "unit": "€/KG"
@@ -67456,7 +68167,10 @@
     ],
     "productName": "VERMUTS TOSO BIANCO 14.8% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.99,
       "unit": "€/L"
@@ -67469,9 +68183,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002008
+    ],
     "productName": "PAPRIKA SARKANA KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.99,
       "unit": "€/KG"
@@ -67480,18 +68202,20 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/Paprika_sarkana2-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002008
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3004
+    ],
     "productName": "PĒTERSĪĻI ZAĻIE 1KG",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 5.99,
       "unit": "€/KG"
@@ -67500,11 +68224,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/05/83861-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3004
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -67849,7 +68569,10 @@
     ],
     "productName": "DZĒRIENS BEZALK.KOMBUČA AR ACAI OGU EKSTRAKTU DIMDIŅI 330ML",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.03,
       "unit": "€/L"
@@ -67869,7 +68592,10 @@
     ],
     "productName": "DZĒRIENS BEZALK.KOMBUČA DIMDIŅI 330ML",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.03,
       "unit": "€/L"
@@ -68117,7 +68843,10 @@
     ],
     "productName": "SMALKMAIZĪTE AR IEVĀRĪJUMA PILDĪJUMU CITRO 90G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.55,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.11,
       "unit": "€/KG"
@@ -68652,9 +69381,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      20010014
+    ],
     "productName": "MAIZIŅŠ GRAUZDĒTO SĪPOLU 240G LATVIJASM",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.21,
       "unit": "€/KG"
@@ -68663,12 +69400,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/07/4750192771559-300x300.png",
     "available": true,
-    "discount": null,
-    "categories": [
-      2,
-      2001,
-      20010014
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
@@ -68727,7 +69459,10 @@
     ],
     "productName": "DZ.VĪNS SVETSKOJE POLUSLADKOJE 8% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 4.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.25,
       "unit": "€/L"
@@ -68984,7 +69719,10 @@
     ],
     "productName": "VĪNS B. FRONTERA CHARD. BIB DO VALLE CENTRAL CHILE 13% 3L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.33,
       "unit": "€/L"
@@ -69096,7 +69834,10 @@
     ],
     "productName": "ALK.KOKT.LB ĶIRSIS VODKA 13% 0.25L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.36,
       "unit": "€/L"
@@ -69116,7 +69857,10 @@
     ],
     "productName": "ENERĢIJAS DZĒRIENS RED BULL APRICOT STRAWBERRY EDITION 0.25L CAN",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.36,
       "unit": "€/L"
@@ -69251,7 +69995,10 @@
     ],
     "productName": "LAVAŠS TURKU 180G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.39,
       "unit": "€/KG"
@@ -69717,7 +70464,10 @@
     ],
     "productName": "VERMUTS GRANTINI BIANCO 14.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.49,
       "unit": "€/L"
@@ -69861,7 +70611,10 @@
     ],
     "productName": "ALK.KOKT. GARAGE HARD  LINGONBERRY 4.6% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.51,
       "unit": "€/L"
@@ -69881,7 +70634,10 @@
     ],
     "productName": "ALK.KOKT. GARAGE HARD CALIFORNIAN PEAR 4.6% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.51,
       "unit": "€/L"
@@ -69901,7 +70657,10 @@
     ],
     "productName": "ALK.KOKT. GARAGE HARD LEMON 4% 0.275L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.51,
       "unit": "€/L"
@@ -70536,7 +71295,10 @@
     ],
     "productName": "ALUS KOKT. SALITOS ORIGINAL 5.9% 0.33L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.64,
       "unit": "€/L"
@@ -71067,7 +71829,10 @@
     ],
     "productName": "DZ.VĪNS FRIZZANTINI SWEET 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 4.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.65,
       "unit": "€/L"
@@ -71423,7 +72188,10 @@
     ],
     "productName": "ALUS CORONA EXTRA 4.5% 0.33L SKĀRD.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.76,
       "unit": "€/L"
@@ -71436,9 +72204,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002001
+    ],
     "productName": "TOMĀTI CHERRY SARKANI FAS. 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.76,
       "unit": "€/KG"
@@ -71447,12 +72223,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/08/TomatiCherry-1-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002001
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -71785,7 +72556,10 @@
     ],
     "productName": "AKL.KOKT.SHAKE CLUB GRANBERRY APPLE 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 6.87,
       "unit": "€/L"
@@ -72633,6 +73407,28 @@
     "discount": null
   },
   {
+    "shop": "CITRO",
+    "categories": [
+      2,
+      20011
+    ],
+    "productName": "SMALKMAIZĪTE TĒJAS 70G",
+    "productPriceOld": null,
+    "productPrice": {
+      "value": 0.49,
+      "unit": "€"
+    },
+    "productPricePerUnit": {
+      "value": 7,
+      "unit": "€/KG"
+    },
+    "productPriceWithLoyaltyCard": null,
+    "productPricePerUnitWithLoyaltyCard": null,
+    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/02/01121-300x300.jpg",
+    "available": true,
+    "discount": null
+  },
+  {
     "shop": "MAXIMA",
     "categories": [
       2,
@@ -73003,7 +73799,10 @@
     ],
     "productName": "ALK.KOKT. CĒSU DZĒRVENĪTE 14% 0.28L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.11,
       "unit": "€/L"
@@ -73023,7 +73822,10 @@
     ],
     "productName": "ALK.KOKT. G&GRAPEFRUT 14% 0.28L CĒSU ALUS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.11,
       "unit": "€/L"
@@ -73043,7 +73845,10 @@
     ],
     "productName": "ALK.KOKT. CĒSU BLACKCURRANTO 14% 0.28L PET",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.11,
       "unit": "€/L"
@@ -73063,7 +73868,10 @@
     ],
     "productName": "ALK.KOKT. FRANČU PĪLĀDZIS 14% 0.28L CĒSU ALUS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.11,
       "unit": "€/L"
@@ -73451,7 +74259,10 @@
     ],
     "productName": "DZ.VĪNS ELEGANT SWEET 10% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.19,
       "unit": "€/L"
@@ -73471,7 +74282,10 @@
     ],
     "productName": "DZ.VĪNS ELEGANT SEMI SWEET 10% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.19,
       "unit": "€/L"
@@ -73702,7 +74516,10 @@
     ],
     "productName": "ALK.KOKT. LB ĶIRSIS 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73722,7 +74539,10 @@
     ],
     "productName": "ALK.KOKT. LB ĶIRSIS 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73742,7 +74562,10 @@
     ],
     "productName": "ALK.KOKT.LB KOKTEILIS ROKS KOLA 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73762,7 +74585,10 @@
     ],
     "productName": "ALK.KOKT.LB KOKTEILIS DŽIMS TONIKS GREIPFRŪTS 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73782,7 +74608,10 @@
     ],
     "productName": "ALK. KOKT. LB UPENE 14.5% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73802,7 +74631,10 @@
     ],
     "productName": "ALUS KOKT. GARAGE HARDCORE CHERRY 6% 0.275L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -73822,7 +74654,10 @@
     ],
     "productName": "ALUS KOKT. GARAGE HARDCORE GRAPEFRUIT 6% 0.275L STIKLS",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.24,
       "unit": "€/L"
@@ -74304,7 +75139,10 @@
     ],
     "productName": "VĪNS S.PUSSALDS CASTILLO LAGOMAR RED 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.32,
       "unit": "€/L"
@@ -74324,7 +75162,10 @@
     ],
     "productName": "VĪNS S. GRAN CASTILLO ROSE PUSSALDS 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.32,
       "unit": "€/L"
@@ -74344,7 +75185,10 @@
     ],
     "productName": "VĪNS B. GRAN CASTILLO VIURO-CHARDONNAY 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.32,
       "unit": "€/L"
@@ -74364,7 +75208,10 @@
     ],
     "productName": "VĪNS S. GRAN CASTILLO CABERNET SAUVIGNON SALDS 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.32,
       "unit": "€/L"
@@ -74384,7 +75231,10 @@
     ],
     "productName": "VĪNS S. GRAN CASTILLO SHIRAZ 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.32,
       "unit": "€/L"
@@ -75015,11 +75865,37 @@
     "categories": [
       2,
       2001,
+      20010015
+    ],
+    "productName": "ĶIPLOKU GRAUZDIŅI CITRO 200G",
+    "productPriceOld": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
+    "productPricePerUnit": {
+      "value": 7.45,
+      "unit": "€/KG"
+    },
+    "productPriceWithLoyaltyCard": null,
+    "productPricePerUnitWithLoyaltyCard": null,
+    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/07/4751034950040-1-300x300.jpg",
+    "available": true,
+    "discount": null
+  },
+  {
+    "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
       2001005
     ],
     "productName": "SALDSKĀBMAIZES ĶIPLOKU GRAUZDIŅI CITRO 200G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.45,
       "unit": "€/KG"
@@ -75101,9 +75977,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      30010017
+    ],
     "productName": "GRANĀTĀBOLI",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.49,
       "unit": "€/KG"
@@ -75112,12 +75996,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/06068-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      30010017
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -75735,7 +76614,10 @@
     ],
     "productName": "SMALKMAIZĪTE KAFIJAS  CITRO 85G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.65,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.65,
       "unit": "€/KG"
@@ -76596,9 +77478,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002002
+    ],
     "productName": "ĶIPLOKI FAS. 100G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.9,
       "unit": "€/KG"
@@ -76607,12 +77497,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2025/01/KiplokiFaseti-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002002
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -78586,7 +79471,10 @@
     ],
     "productName": "VĪNA DZ.AROMATIZĒTS SUNNY GARDEN CHERRY 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78658,7 +79546,10 @@
     ],
     "productName": "DZ.VĪNS TORLEY FORTUNA 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78678,7 +79569,10 @@
     ],
     "productName": "DZ.VĪNS TORLEY CHARMANT DOUX 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78698,7 +79592,10 @@
     ],
     "productName": "VĪNS B. AFRICAN WINERY CHENIN BLANC SAUSS 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78744,7 +79641,10 @@
     ],
     "productName": "VĪNS S. AFRICAN WINERY PNOTAGE SAUSS 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78764,7 +79664,10 @@
     ],
     "productName": "VĪNS S. BOSTAVAN GOLD CABERNET 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78784,7 +79687,10 @@
     ],
     "productName": "VĪNS B. BOSTAVAN GOLD CHARDONNAY 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78804,7 +79710,10 @@
     ],
     "productName": "VĪNS S. KAZAYAK MERLOT 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78824,7 +79733,10 @@
     ],
     "productName": "VĪNS B. DAOS CHARDONNAY MEDIUM SWEET 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78844,7 +79756,10 @@
     ],
     "productName": "VĪNS S. DAOS CABERNET SAUVIGNON MEDIUM SWEET 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78864,7 +79779,10 @@
     ],
     "productName": "VĪNS S. KAZAYAK CABERNET SAUVIGNON 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78884,7 +79802,10 @@
     ],
     "productName": "VĪNS B. KAZAYAK CHARDONNAY 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78904,7 +79825,10 @@
     ],
     "productName": "VĪNS BEZALK.BLUE NUN LIGHT WHITE 0% PUSSALDS BALTS 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78924,7 +79848,10 @@
     ],
     "productName": "DZ.VĪNS TORLEY MAGIC CUVEE 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78944,7 +79871,10 @@
     ],
     "productName": "VĪNS S. GOCHA KAKHETI VALLEY SEMI-SWEET 12 % 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78964,7 +79894,10 @@
     ],
     "productName": "VĪNS B. BLUE NUN ORIGINAL 10% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -78984,7 +79917,10 @@
     ],
     "productName": "VĪNS BEZALK.BLUE NUN LIGHT WHITE 0% PUSSALDS BALTS 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -79004,7 +79940,10 @@
     ],
     "productName": "VĪNS BEZALK.BLUE NUN LIGHT WHITE 0% PUSSALDS BALTS 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 7.99,
       "unit": "€/L"
@@ -79686,9 +80625,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      20010015
+    ],
     "productName": "PICA SĀTĪGĀ 140G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.21,
       "unit": "€/KG"
@@ -79697,12 +80644,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/12/11087-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      2,
-      2001,
-      20010015
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -80939,7 +81881,10 @@
     ],
     "productName": "ALK.KOKT. DINS VODKA & TONIC CRANBERRY 14% 0.275L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.33,
       "unit": "€/L"
@@ -81118,7 +82063,10 @@
     ],
     "productName": "MAIZĪTES HOTDOGU CLASSIC 4GAB. 250G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.09,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.36,
       "unit": "€/KG"
@@ -81253,7 +82201,10 @@
     ],
     "productName": "DZ.VĪNS ŠAMPANIETIS RĪGAS BRUTS 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.39,
       "unit": "€/L"
@@ -81273,7 +82224,10 @@
     ],
     "productName": "DZ.VĪNS ŠAMPANIETIS RĪGAS ORIĢINĀLAIS 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.39,
       "unit": "€/L"
@@ -82161,7 +83115,10 @@
     ],
     "productName": "SAUSIŅI SIERA FLINT 110G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.64,
       "unit": "€/KG"
@@ -82181,7 +83138,10 @@
     ],
     "productName": "SAUSIŅI BEKONA FLINT 110G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.64,
       "unit": "€/KG"
@@ -82201,7 +83161,10 @@
     ],
     "productName": "SAUSIŅI KRĒJUMS ZAĻUMI FLINT 110G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.64,
       "unit": "€/KG"
@@ -82368,7 +83331,10 @@
     ],
     "productName": "VĪNS B. MAISON MUSKAT MEDIUM SWEET 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -82388,7 +83354,10 @@
     ],
     "productName": "VĪNS B. MAISON GRENACHE MEDIUM SWEET 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -82408,7 +83377,10 @@
     ],
     "productName": "VĪNS B. VINA MAIPO MI PUEBLO CHARDONNAY 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -82428,7 +83400,10 @@
     ],
     "productName": "VĪNS S. VINA MAIPO MI PUEBLO CAB. SAUVIGNON 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -82448,7 +83423,10 @@
     ],
     "productName": "VĪNS S. MOLDOVKAJA DOLINA PINOT NOIR 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -82468,7 +83446,10 @@
     ],
     "productName": "VĪNS S. MOLDAVSKAJA DOLINA CABERNET 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 8.65,
       "unit": "€/L"
@@ -84519,7 +85500,10 @@
     ],
     "productName": "ALK.KOKT. DINS GRAPEFRUIT 14% 0.25L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.16,
       "unit": "€/L"
@@ -84922,9 +85906,16 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      2,
+      20010
+    ],
     "productName": "RAUSĪŠI AR SIERU CITRO 300G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.3,
       "unit": "€/KG"
@@ -84933,11 +85924,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/Rausisi-ar-sieru-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      2,
-      20010
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -86023,7 +87010,10 @@
     ],
     "productName": "VĪNS S.SHIRAZ MAORI BAY 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86043,7 +87033,10 @@
     ],
     "productName": "VĪNS B. LA CROIX DU PIN CHARDONNAY 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86063,7 +87056,10 @@
     ],
     "productName": "VĪNS S. LA CROIX DU PIN CABERNET SAUVIGNON 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86083,7 +87079,10 @@
     ],
     "productName": "VĪNS S. LA CROIX DU PIN MERLOT 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86103,7 +87102,10 @@
     ],
     "productName": "VĪNS S. LES ORMES DE CAMBRAS CABERNET SAUVIGNON ROUGE 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86123,7 +87125,10 @@
     ],
     "productName": "VĪNS B. LES ORMES DE CAMBRAS SAUVIGNON BLANC 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86143,7 +87148,10 @@
     ],
     "productName": "VĪNS R. LES ORMES DE CAMBRAS MERLOT ROSÉ 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86163,7 +87171,10 @@
     ],
     "productName": "VĪNS S. PUSSALDS GRAN CASTILLO SEVILLA CABERNET SAUVIGNON SHIRAZ 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86183,7 +87194,10 @@
     ],
     "productName": "VĪNS B.PUSSALDS GRAN CASTILLO BARCELONA SAUVIGNON BLANC 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86203,7 +87217,10 @@
     ],
     "productName": "VĪNS S. NEXT KANGAROO SHIRAZ CABERNET SAUSS 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86223,7 +87240,10 @@
     ],
     "productName": "VĪNS S. NEXT KANGAROO SHIRAZ CABERNET SAUSS 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86243,7 +87263,10 @@
     ],
     "productName": "VĪNS R.PUSSALDS GRAN CASTILLO IBIZA BOBAL MOSCATO ROSE 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86263,7 +87286,10 @@
     ],
     "productName": "VĪNS R.PUSSALDS GRAN CASTILLO IBIZA BOBAL MOSCATO ROSE 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86283,7 +87309,10 @@
     ],
     "productName": "DZ.VĪNS ANTICA VIGNA PROSECCO DOC EXTRA DRY 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86303,7 +87332,10 @@
     ],
     "productName": "VĪNS B. DAOS PINOT GRIGIO MEDIUM DRY 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86323,7 +87355,10 @@
     ],
     "productName": "VĪNS B. DAOS SAUVIGNON BLANC MEDIUM DRY 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86343,7 +87378,10 @@
     ],
     "productName": "VĪNS R. BLUE NUN PINK PUSSAUSS 10.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -86363,7 +87401,10 @@
     ],
     "productName": "VĪNS B. PINOT GRIGIO DELLE VENEZIE IGT 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.32,
       "unit": "€/L"
@@ -87687,6 +88728,29 @@
     "discount": null
   },
   {
+    "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      20010014
+    ],
+    "productName": "SAUSMAIZĪTES FINN CRISP MULTIGRAIN PLĀNĀS 175G",
+    "productPriceOld": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
+    "productPricePerUnit": {
+      "value": 9.66,
+      "unit": "€/KG"
+    },
+    "productPriceWithLoyaltyCard": null,
+    "productPricePerUnitWithLoyaltyCard": null,
+    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/6410500091868-300x300.jpg",
+    "available": true,
+    "discount": null
+  },
+  {
     "shop": "RIMI",
     "categories": [
       1,
@@ -88009,7 +89073,10 @@
     ],
     "productName": "VĪNS B. SUNRISE CHARDONNAY 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.72,
       "unit": "€/L"
@@ -88029,7 +89096,10 @@
     ],
     "productName": "VĪNS S. SUNRISE CABERNET SAUVIGNON 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.72,
       "unit": "€/L"
@@ -88049,7 +89119,10 @@
     ],
     "productName": "VĪNS B. MOSELLAND RIESLING TROCKEN 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.72,
       "unit": "€/L"
@@ -88068,7 +89141,10 @@
     ],
     "productName": "TORTE MEDUS CITRO  800G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.74,
       "unit": "€/KG"
@@ -88822,7 +89898,10 @@
     ],
     "productName": "DZ.VĪNS FREIXENET CAR.NEG.BRUT 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.85,
       "unit": "€/L"
@@ -88863,7 +89942,10 @@
     ],
     "productName": "PĪRĀDZIŅŠ BULJONA CITRO 70G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.86,
       "unit": "€/KG"
@@ -89119,7 +90201,10 @@
     ],
     "productName": "GALETES RACIO KUKURŪZAS PLĀCENĪŠI AR JŪRAS SĀLI 115G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.92,
       "unit": "€/KG"
@@ -90179,7 +91264,10 @@
     ],
     "productName": "VĪNS S. LAS MORAS MALBEC ARGENTINA 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.99,
       "unit": "€/L"
@@ -90199,7 +91287,10 @@
     ],
     "productName": "VĪNS B. LAS MORAS SHARDONNAY 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 9.99,
       "unit": "€/L"
@@ -90286,7 +91377,10 @@
     ],
     "productName": "SAUSIŅI FLINT BEKONA 35G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.35,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10,
       "unit": "€/KG"
@@ -90306,7 +91400,10 @@
     ],
     "productName": "SAUSIŅI FLINT AR KRĒJUMS, ZAĻUMI 35G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.35,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10,
       "unit": "€/KG"
@@ -92392,7 +93489,10 @@
     ],
     "productName": "SAUSBARANCIŅAS MAZĀS AR VANILĪNU VIRTENE 180G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.5,
       "unit": "€/KG"
@@ -93152,7 +94252,10 @@
     ],
     "productName": "VĪNS B. GATO 9 LIVES RESERVA BLANC 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93172,7 +94275,10 @@
     ],
     "productName": "VĪNS S. GATO 9 LIVES RESERVA CABERENET SAUV. 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93192,7 +94298,10 @@
     ],
     "productName": "VĪNS S. GATO 9 LIVES RESERVA CABERENET SAUV. 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93264,7 +94373,10 @@
     ],
     "productName": "VĪNS R. CASA CHARLIZE FLOREALE PINOT GRIGIO BLUSH 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93284,7 +94396,10 @@
     ],
     "productName": "VĪNS R. CASA CHARLIZE FLOREALE PINOT GRIGIO BLUSH 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93304,7 +94419,10 @@
     ],
     "productName": "VĪNS S. OLD TBILISI ALAZANI RED 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93324,7 +94442,10 @@
     ],
     "productName": "VĪNS S. CASA CHARLIZE PRIMITIVO PULGIA IGT 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93344,7 +94465,10 @@
     ],
     "productName": "VĪNS B. CASA CHARLIZE PINOT GRIGIO TERRE SICILIANE IGT 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93364,7 +94488,10 @@
     ],
     "productName": "VĪNS B. FREIXENET PINOT GRIGIO GARDA DOC 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93384,7 +94511,10 @@
     ],
     "productName": "VĪNS R. FREIXENET ROSE VENETO 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93404,7 +94534,10 @@
     ],
     "productName": "VĪNS B. BLUE NUN RIESLING LANDWEIN PASSALDS 9.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93424,7 +94557,10 @@
     ],
     "productName": "VĪNS S. JACOBS CREEK MERLOT 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93444,7 +94580,10 @@
     ],
     "productName": "VĪNS B. JACOBS CREEK CHARDONNAY 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93464,7 +94603,10 @@
     ],
     "productName": "VĪNS B. JACOBS CREEK RIESLING 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93484,7 +94626,10 @@
     ],
     "productName": "VĪNS B. JACOBS CREEK CHARDONNAY 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -93504,7 +94649,10 @@
     ],
     "productName": "VĪNS B. JACOBS CREEK RIESLING 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.65,
       "unit": "€/L"
@@ -95349,7 +96497,10 @@
     ],
     "productName": "VĪNS B. HXM RIESLING TROCKEN 11.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 10.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.99,
       "unit": "€/L"
@@ -95369,7 +96520,10 @@
     ],
     "productName": "VĪNS B. HXM RIESLING TROCKEN 11.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 10.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 10.99,
       "unit": "€/L"
@@ -96416,7 +97570,10 @@
     ],
     "productName": "VĪNS S. JACOBS CREEK SHIRAZ CABERNET 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.19,
       "unit": "€/L"
@@ -96436,7 +97593,10 @@
     ],
     "productName": "VĪNS S. JACOBS CREEK GRENACHE SHIRAZ 14% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.19,
       "unit": "€/L"
@@ -96456,7 +97616,10 @@
     ],
     "productName": "GALETES KUKURŪZAS PLĀCENĪŠI AR LINSĒKLĀM RACIO 115G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.22,
       "unit": "€/KG"
@@ -97302,7 +98465,10 @@
     ],
     "productName": "APERITĪVS VILLA ITALIA ORIGINAL 11% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.41,
       "unit": "€/L"
@@ -99107,7 +100273,10 @@
     ],
     "productName": "LIĶIERIS COFFEE 18% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.98,
       "unit": "€/L"
@@ -99127,7 +100296,10 @@
     ],
     "productName": "LIĶIERIS CRANBERRY 18% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.98,
       "unit": "€/L"
@@ -99147,7 +100319,10 @@
     ],
     "productName": "LIĶIERIS CRANBERRY 18% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.98,
       "unit": "€/L"
@@ -99167,7 +100342,10 @@
     ],
     "productName": "LIĶIERIS PEPPERMINT 18% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.98,
       "unit": "€/L"
@@ -100057,7 +101235,10 @@
     ],
     "productName": "VĪNS R. B&G D’ANJOU 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100103,7 +101284,10 @@
     ],
     "productName": "VĪNS B. CASILLERO DEL DIABLO SAUVIGNON BLANC 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100201,7 +101385,10 @@
     ],
     "productName": "VĪNS B. ALAZANSKAJA DOLINA 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100221,7 +101408,10 @@
     ],
     "productName": "VĪNS S. ALAZANSKAJA DOLINA 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100241,7 +101431,10 @@
     ],
     "productName": "DZ.VĪNS FREIXENET CARTA NEVADA 11.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100261,7 +101454,10 @@
     ],
     "productName": "DZ.VĪNS BLUE NUN SPARKLING 24K ROSE 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100281,7 +101477,10 @@
     ],
     "productName": "VĪNS S. CASILLERO DEL DIABLO CABENET SAUVIGNON 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100301,7 +101500,10 @@
     ],
     "productName": "VĪNS B. CASILLERO DEL DIABLO CHARDONNAY 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -100321,7 +101523,10 @@
     ],
     "productName": "VĪNS B. CALVET VARIETALS SAUB 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 11.99,
       "unit": "€/L"
@@ -102652,7 +103857,10 @@
     ],
     "productName": "DZ.VĪNS JACOBS CREEK CHARDONNAY PINOT 12% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 12.65,
       "unit": "€/L"
@@ -103037,7 +104245,10 @@
     ],
     "productName": "DZ.VĪNS FREIXENET PROSECO DOC 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 12.79,
       "unit": "€/L"
@@ -103300,7 +104511,10 @@
     ],
     "productName": "ST.ALK.DZ. HEKTORS 32% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 12.84,
       "unit": "€/L"
@@ -103320,7 +104534,10 @@
     ],
     "productName": "SAUSMAIZĪTES MARIO RĪSU 155G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 12.84,
       "unit": "€/KG"
@@ -104852,7 +106069,10 @@
     ],
     "productName": "ST.ALK.DZ. HEKTORS 32% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.65,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.3,
       "unit": "€/L"
@@ -105513,7 +106733,10 @@
     ],
     "productName": "VĪNS B. MONTALTO COL.FORM.APPAS.BIANCO 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.32,
       "unit": "€/L"
@@ -105533,7 +106756,10 @@
     ],
     "productName": "VĪNS S. MONTALTO NERO D AVOLA APPASS. 14% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.32,
       "unit": "€/L"
@@ -105553,7 +106779,10 @@
     ],
     "productName": "VĪNS R. CALVET ROSE DANJOU AOC 11% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.32,
       "unit": "€/L"
@@ -105573,7 +106802,10 @@
     ],
     "productName": "VĪNS S. FREIXENET CHIANTI DOGG 12.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.32,
       "unit": "€/L"
@@ -106831,7 +108063,10 @@
     ],
     "productName": "LIĶIERIS MOKA 30% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.7,
       "unit": "€/L"
@@ -107103,7 +108338,10 @@
     ],
     "productName": "DEGVĪNS PŠENIČNAJA 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 6.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 13.78,
       "unit": "€/L"
@@ -110026,7 +111264,10 @@
     ],
     "productName": "LIĶIERIS MOKA 30% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.25,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 14.5,
       "unit": "€/L"
@@ -111759,7 +113000,10 @@
     ],
     "productName": "ST.ALK.DZ. PIPARU RŪGTAIS 35% 0.2L LB",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 14.95,
       "unit": "€/L"
@@ -112903,7 +114147,10 @@
     ],
     "productName": "ST.ALK.DZ. HEKTORS 32% 0.35L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.29,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.11,
       "unit": "€/L"
@@ -112916,9 +114163,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      30020016
+    ],
     "productName": "SALĀTI  MIX 125G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.12,
       "unit": "€/KG"
@@ -112927,12 +114182,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/03/SalatuMixi-arFonu-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      30020016
-    ]
+    "discount": null
   },
   {
     "shop": "RIMI",
@@ -113363,7 +114613,10 @@
     ],
     "productName": "SAUSMAIZĪTES AR TOMĀTU UN OLĪVU GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.07,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.29,
       "unit": "€/KG"
@@ -113383,7 +114636,10 @@
     ],
     "productName": "SAUSMAIZĪTES AR SĒŅU GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.07,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.29,
       "unit": "€/KG"
@@ -113403,7 +114659,10 @@
     ],
     "productName": "SAUSMAIZĪTES AR PICAS GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.07,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.29,
       "unit": "€/KG"
@@ -114713,7 +115972,10 @@
     ],
     "productName": "DEGVĪNS PSHENICNAYA PREMIUM 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 10.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.7,
       "unit": "€/L"
@@ -114733,7 +115995,10 @@
     ],
     "productName": "DEGVĪNS 3 GRAUDU 38% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 10.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.7,
       "unit": "€/L"
@@ -115635,7 +116900,10 @@
     ],
     "productName": "DEGVĪNS GRADUS 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.98,
       "unit": "€/L"
@@ -115655,7 +116923,10 @@
     ],
     "productName": "LIĶIERIS MOKA CARAMEL CREAM 25% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.98,
       "unit": "€/L"
@@ -115675,7 +116946,10 @@
     ],
     "productName": "DEGVĪNS PSHENICNAYA PREMIUM 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.98,
       "unit": "€/L"
@@ -116236,7 +117510,10 @@
     ],
     "productName": "VĪNS B. DIABLO GOLDEN CHARDONNAY 13.5% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.99,
       "unit": "€/L"
@@ -116256,7 +117533,10 @@
     ],
     "productName": "DEGVĪNS GRADUS 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.99,
       "unit": "€/L"
@@ -116276,7 +117556,10 @@
     ],
     "productName": "VĪNS B. FLAXBOURNE MARLBOROUGH SAUV. BLANC SAUSS 13% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 15.99,
       "unit": "€/L"
@@ -116917,7 +118200,10 @@
     ],
     "productName": "LIĶIERIS CANARI PINA COLADA 15% 0.35L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.26,
       "unit": "€/L"
@@ -116937,7 +118223,10 @@
     ],
     "productName": "LIĶIERIS CANARI TIRAMISU 15% 0.35L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 5.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.26,
       "unit": "€/L"
@@ -117256,7 +118545,10 @@
     ],
     "productName": "RUMS OLD CAPTAIN SPICED 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.41,
       "unit": "€/L"
@@ -117772,7 +119064,10 @@
     ],
     "productName": "DEGVĪNS GRADUS 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.56,
       "unit": "€/L"
@@ -118319,7 +119614,10 @@
     ],
     "productName": "ST.ALK.DZ. BONAPARTE 38% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.7,
       "unit": "€/L"
@@ -118361,7 +119659,10 @@
     ],
     "productName": "ST.ALK.DZ. BONAPARTE 38% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 16.78,
       "unit": "€/L"
@@ -119567,7 +120868,10 @@
     ],
     "productName": "ST.ALK.DZ. BONAPARTE APPLE 36% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.18,
       "unit": "€/L"
@@ -119587,7 +120891,10 @@
     ],
     "productName": "LIĶIERIS ŠARLOTE BALZAMA 17% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.18,
       "unit": "€/L"
@@ -120416,7 +121723,10 @@
     ],
     "productName": "VERMUTS MARTINI BIANCO 15% 0.75L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 12.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.32,
       "unit": "€/L"
@@ -121164,7 +122474,10 @@
     ],
     "productName": "DEGVĪNS VODOČKA 38% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.79,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.58,
       "unit": "€/L"
@@ -122157,9 +123470,17 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      2,
+      2001,
+      20010015
+    ],
     "productName": "MAIZES ČIPSI AR KRĒJUMA GARŠU UN LOKIEM BON CHANCE 120G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.92,
       "unit": "€/KG"
@@ -122168,12 +123489,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/4770350142120-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      2,
-      2001,
-      20010015
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
@@ -122184,7 +123500,10 @@
     ],
     "productName": "BON CHANCE SAUSMAIZĪTES AR SIERA UN ĶIPLOKU GARŠU 120G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.92,
       "unit": "€/KG"
@@ -122204,7 +123523,10 @@
     ],
     "productName": "RUPJMAIZES ČIPSI BON CHANCE AR TRĪSKĀRŠU SIERU GARŠU 120G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.15,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.92,
       "unit": "€/KG"
@@ -122293,7 +123615,10 @@
     ],
     "productName": "DEGVĪNS 3 GRAUDU 38% 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.95,
       "unit": "€/L"
@@ -122652,7 +123977,10 @@
     ],
     "productName": "DEGVĪNS SPECZAKAZ 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.98,
       "unit": "€/L"
@@ -122776,7 +124104,10 @@
     ],
     "productName": "DEGVĪNS JOHAN FREITAG 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.98,
       "unit": "€/L"
@@ -122796,7 +124127,10 @@
     ],
     "productName": "ST.ALK.DZ. MAGISTR VS 30% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 8.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 17.98,
       "unit": "€/L"
@@ -123542,7 +124876,10 @@
     ],
     "productName": "LIĶIERIS MOKA 30% 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.45,
       "unit": "€/L"
@@ -124332,7 +125669,10 @@
     ],
     "productName": "DEGVĪNS MOSKOVSKAJA OSOBAJA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 12.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.56,
       "unit": "€/L"
@@ -125526,7 +126866,10 @@
     ],
     "productName": "DEGVĪNS MOSKOVSKAYA OSOBAJA 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.98,
       "unit": "€/L"
@@ -125546,7 +126889,10 @@
     ],
     "productName": "DEGVĪNS MOSKOVSKAYA SILVER 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.98,
       "unit": "€/L"
@@ -125624,7 +126970,10 @@
     ],
     "productName": "DEGVĪNS FINLANDIA REDBERRY 37.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.99,
       "unit": "€/L"
@@ -125644,7 +126993,10 @@
     ],
     "productName": "DEGVĪNS FINLANDIA 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.99,
       "unit": "€/L"
@@ -125660,31 +127012,14 @@
     "categories": [
       1,
       1001,
-      10010016
-    ],
-    "productName": "DEGVĪNS FINLANDIA CRANBERRY 37.5% 1L",
-    "productPriceOld": null,
-    "productPrice": null,
-    "productPricePerUnit": {
-      "value": 18.99,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/05/5099873001929-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
       10010019
     ],
     "productName": "APERITĪVS APEROL 11% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.99,
       "unit": "€/L"
@@ -125704,7 +127039,10 @@
     ],
     "productName": "DEGVĪNS FLIRT 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 18.99,
       "unit": "€/L"
@@ -126146,7 +127484,10 @@
     ],
     "productName": "DEGVĪNS STARIJ TRAKTIR 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.18,
       "unit": "€/L"
@@ -126405,7 +127746,10 @@
     ],
     "productName": "ST.ALK.DZ. CAPTAIN MORGAN SPICED GOLD RUM 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.27,
       "unit": "€/L"
@@ -126661,7 +128005,10 @@
     ],
     "productName": "RUMS BARBUDA SPICED 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.41,
       "unit": "€/L"
@@ -126681,7 +128028,10 @@
     ],
     "productName": "RUMS BARBUDA RUM WHITE 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.41,
       "unit": "€/L"
@@ -127004,7 +128354,10 @@
     ],
     "productName": "SAUSMAIZĪTES RUDZU GROZIŅI LINKUSUO ORIGINAL 150G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.67,
       "unit": "€/KG"
@@ -127047,7 +128400,10 @@
     ],
     "productName": "STABURADZE KAROTĪTES SĀĻĀS 40GB 200G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.95,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.75,
       "unit": "€/KG"
@@ -127067,7 +128423,10 @@
     ],
     "productName": "DEGVĪNS MERNAJA-NA MOLOKE 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.89,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.78,
       "unit": "€/L"
@@ -128063,7 +129422,10 @@
     ],
     "productName": "ST.ALK.DZ. BONUS 36% 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 3.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.95,
       "unit": "€/L"
@@ -128620,7 +129982,10 @@
     ],
     "productName": "DEGVĪNS PEREPJOLKA KLASIČNA 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -128640,7 +130005,10 @@
     ],
     "productName": "DŽINS JOHAN FREITAG GIN 38% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -128660,7 +130028,10 @@
     ],
     "productName": "BRENDIJS MAGISTR CHERRY 30% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -128680,7 +130051,10 @@
     ],
     "productName": "APERITĪVS BITTER MIONETTO APERITIVO 11% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -128700,7 +130074,10 @@
     ],
     "productName": "DEGVĪNS LJOGKAJA VODKA VOZDUH 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -128720,7 +130097,10 @@
     ],
     "productName": "DEGVĪNS PEREPELKA MOLOCHNA 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.98,
       "unit": "€/L"
@@ -129399,7 +130779,10 @@
     ],
     "productName": "DŽINS LB PINK 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.99,
       "unit": "€/L"
@@ -129445,7 +130828,10 @@
     ],
     "productName": "DEGVĪNS VOROBUŠEK POLEVOJ 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.99,
       "unit": "€/L"
@@ -129465,7 +130851,10 @@
     ],
     "productName": "DŽINS LB DŽINS 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.99,
       "unit": "€/L"
@@ -129485,7 +130874,10 @@
     ],
     "productName": "VISKIJS CLAN MACGREGOR 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.99,
       "unit": "€/L"
@@ -129505,7 +130897,10 @@
     ],
     "productName": "DEGVĪNS LJOGKAJA VODKA VOZDUH 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 19.99,
       "unit": "€/L"
@@ -131557,7 +132952,10 @@
     ],
     "productName": "DEGVĪNS SLAVJANSKIE TRADICIJI MJAGKAJA NA MOLOKE 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 10.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 20.98,
       "unit": "€/L"
@@ -131651,7 +133049,10 @@
     ],
     "productName": "DEGVĪNS DANZKA VODKA APPLE 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 20.99,
       "unit": "€/L"
@@ -131671,7 +133072,10 @@
     ],
     "productName": "DEGVĪNS DANZKA VODKA CURRANT 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 20.99,
       "unit": "€/L"
@@ -131691,7 +133095,10 @@
     ],
     "productName": "DEGVĪNS DANZKA VODKA 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 20.99,
       "unit": "€/L"
@@ -133096,7 +134503,10 @@
     ],
     "productName": "DEGVĪNS ICE PALACE VODKA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133116,7 +134526,10 @@
     ],
     "productName": "VISKIJS CLAN MACGREGOR 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133136,7 +134549,10 @@
     ],
     "productName": "DEGVĪNS ICE PALACE VODKA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133156,7 +134572,10 @@
     ],
     "productName": "VISKIJS CLAN MACGREGOR 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133176,7 +134595,10 @@
     ],
     "productName": "ST.ALK.DZ. STRANGE LUVE NEGRONI COCTAIL 27% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133196,7 +134618,10 @@
     ],
     "productName": "DEGVĪNS RIGA BLACK VODKA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -133216,7 +134641,10 @@
     ],
     "productName": "DEGVĪNS FLIRT 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 14.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.41,
       "unit": "€/L"
@@ -134481,7 +135909,10 @@
     ],
     "productName": "DEGVĪNS STOLI VODKA 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 21.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 21.99,
       "unit": "€/L"
@@ -134791,6 +136222,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      1,
+      1001,
+      10010010
+    ],
     "productName": "ALK.DZĒR. METAXA 5* ORANGE 38% 0.7L",
     "productPriceOld": {
       "value": 19.99,
@@ -134808,12 +136244,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/08/5202795160777-300x300.jpg",
     "available": true,
-    "discount": 23,
-    "categories": [
-      1,
-      1001,
-      10010010
-    ]
+    "discount": 23
   },
   {
     "shop": "RIMI",
@@ -136370,7 +137801,10 @@
     ],
     "productName": "VISKIJS LABEL 5 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 22.84,
       "unit": "€/L"
@@ -136390,7 +137824,10 @@
     ],
     "productName": "RUMS EL GALIPOTE SPICED  35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 22.84,
       "unit": "€/L"
@@ -136410,7 +137847,10 @@
     ],
     "productName": "DEGVĪNS STOLICHNAYA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 22.84,
       "unit": "€/L"
@@ -136430,7 +137870,10 @@
     ],
     "productName": "RUMS EL GALIPOTE DARK 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 22.84,
       "unit": "€/L"
@@ -136450,7 +137893,10 @@
     ],
     "productName": "RUMS EL GALIPOTE WHITE 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 15.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 22.84,
       "unit": "€/L"
@@ -136940,7 +138386,10 @@
     ],
     "productName": "GALETES TAUTAS KUKUR. AR MANGO GARŠ. GLAZŪRU 95G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.05,
       "unit": "€/KG"
@@ -136960,7 +138409,10 @@
     ],
     "productName": "GALETES TAUTAS KVIEŠU AR ZEMEŅU GLAZŪRU 95G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.19,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.05,
       "unit": "€/KG"
@@ -137141,7 +138593,10 @@
     ],
     "productName": "GROZIŅI PILDĪŠANAI MAZIE 20GAB. 60G",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.39,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.17,
       "unit": "€/KG"
@@ -137831,7 +139286,10 @@
     ],
     "productName": "VISKIJS GRANT`S FAMILY RESERVE + GLĀZE 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.69,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.84,
       "unit": "€/L"
@@ -137978,7 +139436,10 @@
     ],
     "productName": "VISKIJS BLACK RAM 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 11.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.98,
       "unit": "€/L"
@@ -138085,7 +139546,10 @@
     ],
     "productName": "RUMS BACARDI OAKHEART ORIGINAL SPICED 32.5% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 23.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.99,
       "unit": "€/L"
@@ -138105,7 +139569,10 @@
     ],
     "productName": "LIĶIERIS JAGERMEISTER 35% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 23.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 23.99,
       "unit": "€/L"
@@ -138422,7 +139889,10 @@
     ],
     "productName": "BRENDIJS TORRES 5 38% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 24.27,
       "unit": "€/L"
@@ -138442,7 +139912,10 @@
     ],
     "productName": "DEGVĪNS TOVARITCH VODKA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 24.27,
       "unit": "€/L"
@@ -138462,7 +139935,10 @@
     ],
     "productName": "VISKIJS WILLIAM PEEL FINEST SCOTCH 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 24.27,
       "unit": "€/L"
@@ -138482,7 +139958,10 @@
     ],
     "productName": "DŽINS STRANGE LOVE LONDON DRY GIN PINK 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 24.27,
       "unit": "€/L"
@@ -138502,7 +139981,10 @@
     ],
     "productName": "VISKIJS CANADIAN SPECIAL OLD 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 24.27,
       "unit": "€/L"
@@ -140810,7 +142292,10 @@
     ],
     "productName": "BALZAMS RĪGAS MELNAIS 45% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 17.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 25.7,
       "unit": "€/L"
@@ -140830,7 +142315,10 @@
     ],
     "productName": "DŽINS BEEFEATRER 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 17.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 25.7,
       "unit": "€/L"
@@ -140850,7 +142338,10 @@
     ],
     "productName": "BALZAMS RĪGA BLACK BALSAM CURRANT 30% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 17.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 25.7,
       "unit": "€/L"
@@ -141426,7 +142917,10 @@
     ],
     "productName": "DEGVĪNS ABSOLUT VODKA 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 12.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 25.98,
       "unit": "€/L"
@@ -141446,7 +142940,10 @@
     ],
     "productName": "VISKIJS JIM BEAM 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 25.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 25.99,
       "unit": "€/L"
@@ -142758,7 +144255,10 @@
     ],
     "productName": "LIĶIERIS JAGERMEISTER 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 27.13,
       "unit": "€/L"
@@ -142801,7 +144301,10 @@
     ],
     "productName": "BALZAMS RĪGAS MELNAIS 45% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 13.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 27.18,
       "unit": "€/L"
@@ -144037,7 +145540,10 @@
     ],
     "productName": "BALZAMS RĪGA BLACK BALSAM CURRANT 30% 0.35L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 9.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.54,
       "unit": "€/L"
@@ -144161,7 +145667,10 @@
     ],
     "productName": "ST.ALK.DZĒRIENS BACARDI SPICED 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144181,7 +145690,10 @@
     ],
     "productName": "ST.ALK.DZĒRIENS BACARDI SPICED 35% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144201,7 +145713,10 @@
     ],
     "productName": "RUMS BACARDI CARTA BLANCA 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144221,7 +145736,10 @@
     ],
     "productName": "VISKIJS JIM BEAM 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144241,7 +145759,10 @@
     ],
     "productName": "VISKIJS JIM BEAM HONEY 32.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144261,7 +145782,10 @@
     ],
     "productName": "RUMS BACARDI CARTA NEGRA 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144281,7 +145805,10 @@
     ],
     "productName": "VISKIJS JIM BEAM APPLE 32.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144301,7 +145828,10 @@
     ],
     "productName": "RUMS DAD JOKE SPICED 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.56,
       "unit": "€/L"
@@ -144482,7 +146012,10 @@
     ],
     "productName": "VISKIJS BALLANTINE`S 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 28.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.99,
       "unit": "€/L"
@@ -144502,7 +146035,10 @@
     ],
     "productName": "VISKIJS TULLAMORE DEW 40% 1L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 28.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 28.99,
       "unit": "€/L"
@@ -145013,7 +146549,10 @@
     ],
     "productName": "RUMS DMF PASSIONFRUIT RUM 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 29.27,
       "unit": "€/L"
@@ -145033,7 +146572,10 @@
     ],
     "productName": "RUMS DMF MANGO RUM 37.5% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.49,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 29.27,
       "unit": "€/L"
@@ -146078,7 +147620,10 @@
     ],
     "productName": "DŽINS CROSS KEYS GIN BLACK CURRANT 38% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 29.99,
       "unit": "€/L"
@@ -146098,7 +147643,10 @@
     ],
     "productName": "DŽINS CROSS KEYS GIN 41% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 29.99,
       "unit": "€/L"
@@ -146118,7 +147666,10 @@
     ],
     "productName": "RUMS PLANTATION DOUBLE AGED DARK 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 20.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 29.99,
       "unit": "€/L"
@@ -147321,7 +148872,10 @@
     ],
     "productName": "BRENDIJS ARARAT 5* 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 21.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 31.41,
       "unit": "€/L"
@@ -149005,7 +150559,10 @@
     ],
     "productName": "VISKIJS JAMESON 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 16.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 33.98,
       "unit": "€/L"
@@ -149922,6 +151479,11 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      1,
+      1001,
+      1001007
+    ],
     "productName": "ALK.DZ.BACARDI CARIBBEAN SPICED 40% 0.7L",
     "productPriceOld": {
       "value": 29.99,
@@ -149939,12 +151501,7 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/07/7610113021187-300x300.jpg",
     "available": true,
-    "discount": 17,
-    "categories": [
-      1,
-      1001,
-      1001007
-    ]
+    "discount": 17
   },
   {
     "shop": "MAXIMA",
@@ -150114,7 +151671,10 @@
     ],
     "productName": "BRENDIJS ARARAT 5* 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 17.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 35.98,
       "unit": "€/L"
@@ -150751,7 +152311,10 @@
     ],
     "productName": "RUMS FLOR DE CANA 7 GRAN RESERVA 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 25.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 37.13,
       "unit": "€/L"
@@ -151227,7 +152790,10 @@
     ],
     "productName": "BRENDIJS ARARAT 3* 40% 0.2L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 7.59,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 37.95,
       "unit": "€/L"
@@ -151305,7 +152871,10 @@
     ],
     "productName": "BRENDIJS CALVADOS COQUEREL FINE 40% 0.5L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 18.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 37.98,
       "unit": "€/L"
@@ -152834,7 +154403,10 @@
     ],
     "productName": "VIKSIJS PROPER NO. TWELVE IRISH 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 29.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 42.84,
       "unit": "€/L"
@@ -153925,7 +155497,10 @@
     ],
     "productName": "VISKIJS TĒRVETES MIEŽU IESALS 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 31.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 45.7,
       "unit": "€/L"
@@ -153945,7 +155520,10 @@
     ],
     "productName": "BRENDIJS ARARAT CHERRY 30% 0.5L KASTĒ",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 22.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 45.98,
       "unit": "€/L"
@@ -154432,7 +156010,10 @@
     ],
     "productName": "KONJAKS FRANČU MARTELL V.S. 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 33.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 48.56,
       "unit": "€/L"
@@ -155115,7 +156696,10 @@
     ],
     "productName": "RUMS FLOR DE CANA 12YO 40% 0.7L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 36.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 52.84,
       "unit": "€/L"
@@ -156069,7 +157653,10 @@
     ],
     "productName": "KONJAKS COURVOISIER V.S. 40% 0.35L",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 19.99,
+      "unit": "€"
+    },
     "productPricePerUnit": {
       "value": 57.11,
       "unit": "€/L"
@@ -166819,70 +168406,82 @@
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      3002006
+    ],
     "productName": "GURĶI GARIE LATVIJA 1GAB. PLĒVĒ",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.59,
+      "unit": "€"
+    },
     "productPricePerUnit": null,
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/05/09868-1-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      3002006
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3002,
+      30020012
+    ],
     "productName": "AVOKADO ZAĻIE PINKERTON 1GB",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 0.89,
+      "unit": "€"
+    },
     "productPricePerUnit": null,
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/03/Avokado-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3002,
-      30020012
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001008
+    ],
     "productName": "ANANĀSI GOLD GAB.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 2.59,
+      "unit": "€"
+    },
     "productPricePerUnit": null,
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/ananass-1-300x300.jpg",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001008
-    ]
+    "discount": null
   },
   {
     "shop": "CITRO",
+    "categories": [
+      3,
+      3001,
+      3001006
+    ],
     "productName": "MANGO MAZIE 1GB.",
     "productPriceOld": null,
-    "productPrice": null,
+    "productPrice": {
+      "value": 1.69,
+      "unit": "€"
+    },
     "productPricePerUnit": null,
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/02/mango_1000096-300x258.png",
     "available": true,
-    "discount": null,
-    "categories": [
-      3,
-      3001,
-      3001006
-    ]
+    "discount": null
   }
 ]
