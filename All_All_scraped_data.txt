@@ -76284,7 +76284,12 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/ea126223-e5f1-407c-9fd0-3f2a859ce08b_s.png",
-    "available": true
+    "available": true,
+    "categories": [
+      1,
+      1002,
+      10010022
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -86970,7 +86975,12 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/9f6c1339-66a4-4634-a2d2-60b309022219_s.png",
-    "available": true
+    "available": true,
+    "categories": [
+      1,
+      1001,
+      1001004
+    ]
   },
   {
     "shop": "MAXIMA",
