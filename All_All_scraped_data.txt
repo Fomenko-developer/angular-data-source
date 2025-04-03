@@ -4780,8 +4780,8 @@
     "shop": "CITRO",
     "categories": [
       1,
-      1001,
-      1001001
+      1002,
+      10010023
     ],
     "productName": "KVASS ULMAŅLAIKU 2L CĒSU ALUS",
     "productPriceOld": null,
@@ -10000,8 +10000,8 @@
     "shop": "CITRO",
     "categories": [
       1,
-      1001,
-      1001001
+      1002,
+      10010021
     ],
     "productName": "LIMONĀDE KLASISKĀ LIMONĀDE 0.5L CĒSU ALUS",
     "productPriceOld": null,
@@ -35175,8 +35175,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1002,
+      10010021
     ],
     "productName": "Limonāde Bauskas Alus Cidoniju 0,5l",
     "productPriceOld": null,
@@ -35204,8 +35204,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1002,
+      10010021
     ],
     "productName": "Limonāde Bauskas Alus Upeņu 0,5l",
     "productPriceOld": null,
@@ -35233,8 +35233,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1002,
+      10010021
     ],
     "productName": "Limonāde Bauskas Alus Rabarberu 0,5l",
     "productPriceOld": null,
