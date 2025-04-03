@@ -7119,7 +7119,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_4005735_PCE_LV",
     "available": true,
-    "discount": 29
+    "discount": 29,
+    "categories": [
+      2,
+      2001,
+      20010014
+    ]
   },
   {
     "shop": "RIMI",
@@ -8942,7 +8947,11 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_4003875_PCE_LV",
     "available": true,
-    "discount": 22
+    "discount": 22,
+    "categories": [
+      2,
+      2005
+    ]
   },
   {
     "shop": "RIMI",
@@ -14292,7 +14301,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1375223_PCE_LV",
     "available": true,
-    "discount": 36
+    "discount": 36,
+    "categories": [
+      1,
+      1002,
+      10010027
+    ]
   },
   {
     "shop": "RIMI",
@@ -14509,7 +14523,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1375236_PCE_LV",
     "available": true,
-    "discount": 36
+    "discount": 36,
+    "categories": [
+      1,
+      1002,
+      10010027
+    ]
   },
   {
     "shop": "RIMI",
@@ -14553,7 +14572,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1375246_PCE_LV",
     "available": true,
-    "discount": 36
+    "discount": 36,
+    "categories": [
+      1,
+      1002,
+      10010027
+    ]
   },
   {
     "shop": "RIMI",
@@ -14747,7 +14771,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1375229_PCE_LV",
     "available": true,
-    "discount": 36
+    "discount": 36,
+    "categories": [
+      1,
+      1002,
+      10010027
+    ]
   },
   {
     "shop": "RIMI",
@@ -110243,7 +110272,7 @@
     "categories": [
       1,
       1001,
-      10010019
+      10010010
     ],
     "productName": "Stipr.alk.dzēr.METAXA 5* ORANGE 38% 0,7L",
     "productPriceOld": {
@@ -124859,7 +124888,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/cf2d589d-b03e-4ce2-bcfb-5767fb546110_s.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010015
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -125131,7 +125165,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/db4d4920-7bd3-42ab-bacb-abcd53e14ce2_s.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010015
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -126889,7 +126928,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/adab8a3a-2ded-457b-85bf-914e85caa635_s.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      2001002
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -127694,7 +127738,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/7037a5a2-1b09-4860-912a-9dc6078fcdef_s.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010011
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -128884,7 +128933,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/16433f09-a9da-42c1-bd2f-5fe64e3bb3d4_s.png",
     "available": false,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010011
+    ]
   },
   {
     "shop": "MAXIMA",
@@ -137887,7 +137941,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/08/5202795160777-300x300.jpg",
     "available": true,
-    "discount": 23
+    "discount": 23,
+    "categories": [
+      1,
+      1001,
+      10010010
+    ]
   },
   {
     "shop": "CITRO",
@@ -139712,7 +139771,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/07/7610113021187-300x300.jpg",
     "available": true,
-    "discount": 17
+    "discount": 17,
+    "categories": [
+      1,
+      1001,
+      1001007
+    ]
   },
   {
     "shop": "CITRO",
@@ -144409,7 +144473,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/02/5900334004215-300x300.jpg",
     "available": true,
-    "discount": 21
+    "discount": 21,
+    "categories": [
+      1,
+      1002,
+      10010020
+    ]
   },
   {
     "shop": "CITRO",
@@ -147514,7 +147583,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/4750142007240-300x300.jpg",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      1,
+      1002,
+      10010022
+    ]
   },
   {
     "shop": "CITRO",
@@ -147529,7 +147603,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/4750142007233-300x300.jpg",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      1,
+      1002,
+      10010022
+    ]
   },
   {
     "shop": "CITRO",
@@ -148292,7 +148371,7 @@
     "categories": [
       2,
       2001,
-      2001008
+      2001002
     ],
     "productName": "MAIZE DZĪVĀ ŠĶIEDRVIELU 250G FAZER",
     "productPriceOld": {
@@ -149295,7 +149374,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/07/4750192771559-300x300.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010014
+    ]
   },
   {
     "shop": "CITRO",
@@ -149520,7 +149604,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/4770350142120-300x300.jpg",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010015
+    ]
   },
   {
     "shop": "CITRO",
@@ -149615,7 +149704,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/10/4750192733502.png",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010014
+    ]
   },
   {
     "shop": "CITRO",
@@ -150039,7 +150133,11 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/01/Rausisi-ar-sieru-300x300.jpg",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      20010
+    ]
   },
   {
     "shop": "CITRO",
@@ -150104,7 +150202,12 @@
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/12/11087-300x300.jpg",
     "available": true,
-    "discount": null
+    "discount": null,
+    "categories": [
+      2,
+      2001,
+      20010015
+    ]
   },
   {
     "shop": "CITRO",
