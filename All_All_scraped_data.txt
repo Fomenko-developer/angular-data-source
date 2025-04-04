@@ -89468,8 +89468,7 @@
     "shop": "MAXIMA",
     "categories": [
       2,
-      2001,
-      20010014
+      20011
     ],
     "productName": "Mini maizītes ar melleņu pildījumu MEISTARA MARKA kg",
     "productPriceOld": null,
@@ -97013,8 +97012,7 @@
     "shop": "MAXIMA",
     "categories": [
       2,
-      2001,
-      20010014
+      20011
     ],
     "productName": "Smalkmaizīte Siera 60g",
     "productPriceOld": null,
@@ -101457,8 +101455,7 @@
     "shop": "MAXIMA",
     "categories": [
       2,
-      2001,
-      20010014
+      20011
     ],
     "productName": "Smalkmaizīte SIERA SPILVENTIŅŠ 55g",
     "productPriceOld": null,
