@@ -34574,9 +34574,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      2001004
+      1,
+      1001,
+      1001001
     ],
     "productName": "Alus CĒSU BRŪŽA Rudzugraudu 4,2% 0,5L D",
     "productPriceOld": null,
@@ -44637,9 +44637,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      2001004
+      1,
+      1001,
+      1001001
     ],
     "productName": "Alus Brūža Rudzugraudu 4,2% 0,5l",
     "productPriceOld": null,
@@ -45775,9 +45775,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      2001004
+      1,
+      1002,
+      10010023
     ],
     "productName": "Kvass Valmiermuiža rudzu iesala 0,5l",
     "productPriceOld": null,
@@ -80533,9 +80533,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010015
+      1,
+      1001,
+      1001001
     ],
     "productName": "Grauzdiņi alus ķiploku kg",
     "productPriceOld": null,
@@ -83159,7 +83159,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausmaizītes Finn Crisp 200g",
     "productPriceOld": null,
@@ -86099,7 +86099,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Flint ar siera garšu 90g",
     "productPriceOld": null,
@@ -87087,7 +87087,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "SAUSMAIZĪTES FINN CRISP MULTIGRAIN PLĀNĀS 175G",
     "productPriceOld": null,
@@ -87222,7 +87222,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Finn Crisp oriģinālās 400g",
     "productPriceOld": null,
@@ -87537,7 +87537,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausmaizītes Wasa Original 275g",
     "productPriceOld": null,
@@ -87675,7 +87675,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes rudzu WASA Original 275g",
     "productPriceOld": null,
@@ -88226,7 +88226,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes rudzu WASA Delikatess 270g",
     "productPriceOld": null,
@@ -88405,7 +88405,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Rimi auzu 100gr",
     "productPriceOld": null,
@@ -90311,7 +90311,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Sausmaizītes KRISPROLLS pilngraudu bez cukura 225g",
@@ -90335,7 +90335,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Sausmaizītes KRISPROLLS pilngraudu 225g",
@@ -90359,7 +90359,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes KRISPROLLS kviešu 225g",
     "productPriceOld": null,
@@ -90611,7 +90611,7 @@
     "categories": [
       2,
       2001,
-      2001008
+      20010015
     ],
     "productName": "Graudu sausmaizītes Finn Crisp 175g",
     "productPriceOld": null,
@@ -90909,7 +90909,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes rīsu Mario 155g",
     "productPriceOld": {
@@ -90941,7 +90941,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "SAUSMAIZĪTES MARIO RUDZU 155G",
     "productPriceOld": {
@@ -93648,7 +93648,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Griķu sausmaizītes 155g",
     "productPriceOld": {
@@ -93674,7 +93674,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes griķu Mario 155g",
     "productPriceOld": {
@@ -94005,7 +94005,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausmaizītes Fazer Crisp 200g",
     "productPriceOld": null,
@@ -94083,7 +94083,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes FINN CRISP ORIGINAL plānās 200g",
     "productPriceOld": null,
@@ -94106,7 +94106,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes FAZER CRISP rudzu 200g",
     "productPriceOld": null,
@@ -94129,7 +94129,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes FINN CRISP tradicionālās 200g",
     "productPriceOld": null,
@@ -96805,7 +96805,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Sausmaizītes SELGA Nature ar sēklām 200g",
     "productPriceOld": {
@@ -96837,7 +96837,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Sausmaizītes SELGA Nature ar sēklām čili 200g",
     "productPriceOld": {
@@ -96869,7 +96869,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes SELGA Nature ar timiānu 200g",
     "productPriceOld": {
@@ -96901,7 +96901,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Riduto sausmaizītes Danvita ar Sēklām 130g",
     "productPriceOld": null,
@@ -97290,7 +97290,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes rudzu WASA Fibre 230g",
     "productPriceOld": null,
@@ -97718,7 +97718,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Finn Crisp tradicionālās 200g",
     "productPriceOld": null,
@@ -100022,7 +100022,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Sausmaizītes pilngraudu Mario 155g",
@@ -101230,7 +101230,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes FINN CRISP MULTIGRAIN plānās 175g",
     "productPriceOld": null,
@@ -102262,7 +102262,7 @@
     "categories": [
       2,
       2001,
-      2001007
+      20010015
     ],
     "productName": "Kliju sausmaizītes 155g",
     "productPriceOld": null,
@@ -102285,7 +102285,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Rīsu sausmaizītes 155g",
     "productPriceOld": null,
@@ -102427,7 +102427,7 @@
     "categories": [
       2,
       2001,
-      2001007
+      20010015
     ],
     "productName": "Sausmaizītes kliju Mario 155g",
     "productPriceOld": null,
@@ -102450,7 +102450,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes kviešu Mario 155g",
     "productPriceOld": null,
@@ -102496,7 +102496,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "SAUSMAIZĪTES MARIO RĪSU 155G",
     "productPriceOld": null,
@@ -102892,7 +102892,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Kviešu sausmaizītes Wasa sezama 200g",
     "productPriceOld": null,
@@ -102937,7 +102937,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Kviešu sausmaizītes Sesam WASA 200g",
     "productPriceOld": null,
@@ -102960,7 +102960,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "SAUSMAIZĪTES SELGA NATURE AR SĒKLĀM, ČILI, ĶIPLOKS 200G",
     "productPriceOld": {
@@ -103547,7 +103547,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausmaizītes 155g",
     "productPriceOld": null,
@@ -103570,7 +103570,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes rudzu Mario 155g",
     "productPriceOld": null,
@@ -106851,7 +106851,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes Crisp tumšās rudzu 215g",
     "productPriceOld": null,
@@ -106874,7 +106874,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes FAZER CRISP tumšās rudzu 215g",
     "productPriceOld": null,
@@ -108695,7 +108695,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Pilngraudu sausmaizītes Mario 155g",
@@ -109962,9 +109962,9 @@
   {
     "shop": "CITRO",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "DEGVĪNS 3 GRAUDU 38% 0.5L",
     "productPriceOld": {
@@ -112360,7 +112360,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "SAUSMAIZĪTES AR TOMĀTU UN OLĪVU GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
@@ -112383,7 +112383,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "SAUSMAIZĪTES AR SĒŅU GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
@@ -112406,7 +112406,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "SAUSMAIZĪTES AR PICAS GARŠU BRUSCHETTI MARETTI 70G",
     "productPriceOld": null,
@@ -112454,7 +112454,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Danvita ar sieru, ķiplokiem 130g",
     "productPriceOld": null,
@@ -112947,7 +112947,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Maretti ar picas garšu 70g",
     "productPriceOld": null,
@@ -112970,7 +112970,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Maretti ar siera garšu 70g",
     "productPriceOld": null,
@@ -112993,7 +112993,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Maretti ar dārzeņu garšu 70g",
     "productPriceOld": null,
@@ -113016,7 +113016,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Maretti ar krabju garšu 70g",
     "productPriceOld": null,
@@ -113039,7 +113039,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes MARETTI ar picas garšu 70g",
     "productPriceOld": null,
@@ -113062,7 +113062,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Maretti ar skābā krējuma un sīpolu garšu 70g",
     "productPriceOld": null,
@@ -113584,9 +113584,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010014
     ],
     "productName": "Degvīns Latvijas Balzams 3 Graudu 38% 0,7l",
     "productPriceOld": null,
@@ -113740,9 +113740,9 @@
   {
     "shop": "CITRO",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "DEGVĪNS 3 GRAUDU 38% 0.7L",
     "productPriceOld": null,
@@ -116742,7 +116742,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes RIMI jogurta un saldā čili",
     "productPriceOld": null,
@@ -116765,7 +116765,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Rimi auzu 120g",
     "productPriceOld": null,
@@ -119692,9 +119692,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "Degvīns 3 GRAUDU 38% 0,7l",
     "productPriceOld": null,
@@ -120048,7 +120048,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Better ar jūras sāli 170g",
     "productPriceOld": null,
@@ -120071,7 +120071,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Better tomātu un čili 170g",
     "productPriceOld": null,
@@ -120163,7 +120163,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Better ar rozmarīnu 170g",
     "productPriceOld": null,
@@ -120186,7 +120186,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes BETTER tomāts un čili 170g",
     "productPriceOld": null,
@@ -120209,7 +120209,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "Sausmaizītes Better ar jūras sāli 170g",
     "productPriceOld": null,
@@ -120230,9 +120230,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      2001004
+      1,
+      1001,
+      10010016
     ],
     "productName": "Degvīns RUDZU 40% 0,5l",
     "productPriceOld": null,
@@ -121051,7 +121051,7 @@
     "categories": [
       2,
       2001,
-      20010014
+      20010015
     ],
     "productName": "BON CHANCE SAUSMAIZĪTES AR SIERA UN ĶIPLOKU GARŠU 120G",
     "productPriceOld": null,
@@ -121164,9 +121164,9 @@
   {
     "shop": "CITRO",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "DEGVĪNS 3 GRAUDU 38% 0.2L",
     "productPriceOld": null,
@@ -121361,9 +121361,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "Degvīns 3 GRAUDU 38% 0,5l",
     "productPriceOld": null,
@@ -125479,9 +125479,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      2001008
+      1,
+      1001,
+      10010016
     ],
     "productName": "Degvīns 3 Graudu 38% 0,2l",
     "productPriceOld": null,
@@ -125697,7 +125697,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "SAUSMAIZĪTES RUDZU GROZIŅI LINKUSUO ORIGINAL 150G",
     "productPriceOld": null,
@@ -126366,7 +126366,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes Rimi rudzu ar sk. krēj. g. 150g",
     "productPriceOld": null,
@@ -126389,7 +126389,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Sausmaizītes Rimi rudzu ar ķiplokiem 150g",
     "productPriceOld": null,
