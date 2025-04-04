@@ -18588,8 +18588,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus Lāčplēsis gaišais 5,0% 1l",
     "productPriceOld": {
@@ -30023,8 +30023,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus BRĀLIS senču 4,0% 1L PET D",
     "productPriceOld": null,
@@ -34136,8 +34136,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus Tērvete Ķiršu 4,0% 0,5l",
     "productPriceOld": null,
@@ -41608,8 +41608,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "Alk. kokteilis Garage Hard Tropical 6,0% 0,5l",
     "productPriceOld": null,
@@ -42279,8 +42279,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus BRĀLIS senču 4,0% 0,5L D",
     "productPriceOld": null,
@@ -48297,7 +48297,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzērien. Sherwood avene, laims 4,5% 0,5l",
     "productPriceOld": null,
@@ -48898,8 +48898,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "Alus dzēriens TĒRVETE ķiršu 4,0% 0,5L D",
     "productPriceOld": null,
@@ -49845,8 +49845,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus Bavaria Pilsener 5,0%, 0,5l",
     "productPriceOld": null,
@@ -50745,7 +50745,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus k. Valmiermuižas Frišs plūšk. 2,8% 0,5l",
     "productPriceOld": null,
@@ -50843,7 +50843,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus kokteilis Frišs ar aveņu garšu 2,6% 0,5l",
     "productPriceOld": null,
@@ -51217,8 +51217,8 @@
     "shop": "CITRO",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "ALUS KOKT. GARAGE HARD ORANGE 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
@@ -51240,8 +51240,8 @@
     "shop": "CITRO",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "ALUS KOKT. GARAGE HARD TROPICAL 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
@@ -55148,8 +55148,8 @@
     "shop": "CITRO",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "ALUS MEŽPILS MĀKONIS 5.0% 0.5L STIKLS",
     "productPriceOld": null,
@@ -57475,8 +57475,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus MEŽPILS Mākonis 5,0% 0,5L D",
     "productPriceOld": null,
@@ -65325,8 +65325,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001001
+      1003,
+      1003001
     ],
     "productName": "Alus GRIMBERGEN BLANCHE 6,0% 0,25L D",
     "productPriceOld": null,
@@ -65808,11 +65808,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns BOSCA Gold 7,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -65905,8 +65900,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "Alkoholisks kokteilis Rose Gin 5,0% 0,33l",
     "productPriceOld": null,
@@ -65928,8 +65923,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "Alkoholisks kokteilis Rose Gin 5,0% 0,33l",
     "productPriceOld": null,
@@ -65997,8 +65992,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001005
+      1003,
+      1003005
     ],
     "productName": "Alkoholisks kokteilis Rose Gin 5,0% 0,33l",
     "productPriceOld": null,
@@ -67854,11 +67849,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns BOSCA White 7,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -67909,11 +67899,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst. vīns FESTIVE MOMENTS 8% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -68882,11 +68867,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY MUSCAT. 10,5% 0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -68914,11 +68894,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY ROSE 11,5% 0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -68946,11 +68921,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY FORTUNA 10,5% 0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -68978,11 +68948,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY CHARMANT 11% 0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -69010,11 +68975,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY MAGIC CUVEE 11%0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -69042,11 +69002,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY GALA 11% 0,75L",
     "productPriceOld": {
       "value": 6.33,
@@ -73006,11 +72961,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1003,
-      1003003
-    ],
     "productName": "Bezalkoh. dzirkst. vīna dzēriens Torley 0,2l",
     "productPriceOld": null,
     "productPrice": {
@@ -74229,11 +74179,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns SVETSKOJE Polusladkoje 8% 0,75L D",
     "productPriceOld": null,
     "productPrice": {
@@ -75793,11 +75738,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīna dzēriens Zolotoje Prazdnicnoje 10% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -75816,11 +75756,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīna dzēriens Polusladkoje Prazdnicnoje 10% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -77798,11 +77733,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TORLEY CHARMANT 11,5% 0,2L",
     "productPriceOld": {
       "value": 2.57,
@@ -79092,11 +79022,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns ALITA Sweet 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -83269,11 +83194,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1003,
-      1003003
-    ],
     "productName": "Dzirkstošais vīns B&G b/a 750ml D",
     "productPriceOld": null,
     "productPrice": {
@@ -85725,11 +85645,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns TOSO FRAGOLINO 7% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -88151,11 +88066,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Rīgas PRESTIGE CUVEE Semi Seco11,5%0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -88841,11 +88751,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns DOR ALB BRUT 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -89822,11 +89727,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns ALITA Brut Cuvee 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -91894,11 +91794,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns J.P.CHENET Ice Edition 10,5% 0,75L",
     "productPriceOld": {
       "value": 9.97,
@@ -93277,11 +93172,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns ROCCA FORTI FRAG.10% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -93300,11 +93190,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns ROCCA FORTI DOLCE 9,5%0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -95158,11 +95043,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst. vīns NUA LAMBRUSCO 8% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -95320,11 +95200,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns PATRIARCHE SWEET 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -95561,11 +95436,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Lambrusco DOC 8% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -105214,8 +105084,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001003
+      1003,
+      1003003
     ],
     "productName": "S.v. Lago Sagrado 13.0% 0,75l",
     "productPriceOld": null,
@@ -105281,11 +105151,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns J.P.CHENET Medium Dry 12% 750ml",
     "productPriceOld": null,
     "productPrice": {
@@ -105304,11 +105169,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns J.P.CHENET Sweet 10,5%750ml",
     "productPriceOld": null,
     "productPrice": {
@@ -105649,11 +105509,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns MIONETTO PROSECCO DRY 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -106409,11 +106264,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1003,
-      1003003
-    ],
     "productName": "Bezalkoholiskais dzirkstošais vīns MASCHIO Cantine 0,75L D",
     "productPriceOld": null,
     "productPrice": {
@@ -106432,11 +106282,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns NUA PROSECCO 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -106657,11 +106502,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns NEIRANO ASTI 7,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -107094,11 +106934,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns RIVANI Rose 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -107140,11 +106975,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns RIVANI Chardonnay 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -107258,11 +107088,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns MIONETTO PROSECCO BRUT 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -107867,11 +107692,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns ROCCA DEI FORTI PROSSECO 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -108790,11 +108610,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns PROSSECO SPERONE 11,5%0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -110404,11 +110219,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns TOSO ASTI 7% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -110959,11 +110769,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns CODORNIU Brut Cava BIO 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -111211,11 +111016,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns FREIXENET Brut 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -111234,11 +111034,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns FREIXENET Dulce 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -113954,11 +113749,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns MURVIEDRO Cava Brut BIO 11,5% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -115635,11 +115425,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns MIONETTO VALDOBBIADENE 11% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -116079,11 +115864,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns CANTI Asti 7% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -117182,11 +116962,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns REBULI Pros.Di. 11% 0,75L",
     "productPriceOld": {
       "value": 17.69,
@@ -117283,11 +117058,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns B&G Rose 11,5% 750ml",
     "productPriceOld": null,
     "productPrice": {
@@ -117805,7 +117575,7 @@
     "categories": [
       1,
       1001,
-      1001003
+      10010018
     ],
     "productName": "Dzirkst.vīns MARTINI Asti 7,5% 0,75L",
     "productPriceOld": null,
@@ -118009,11 +117779,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Cinzano Sweet 9,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -118035,7 +117800,7 @@
     "categories": [
       1,
       1001,
-      1001003
+      10010018
     ],
     "productName": "Dzirkstošais vīns MARTINI Frizzante Dolce 9,5% 750ml",
     "productPriceOld": null,
@@ -118078,11 +117843,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns SAINT HILLARE BRUT AOC 12% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -118101,11 +117861,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns CA'DI RAJO PROSECCO 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -119865,11 +119620,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns ASKANELI Brut 12% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -119911,11 +119661,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Schwansee Cuvee 11% 0,2l",
     "productPriceOld": null,
     "productPrice": {
@@ -119934,11 +119679,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Schwansee Rose 11% 0,2l",
     "productPriceOld": null,
     "productPrice": {
@@ -122323,7 +122063,7 @@
     "categories": [
       1,
       1001,
-      1001003
+      10010018
     ],
     "productName": "Dzirkstošais vīns MARTINI Prosecco 11,5%0,75L",
     "productPriceOld": null,
@@ -122346,7 +122086,7 @@
     "categories": [
       1,
       1001,
-      1001003
+      10010018
     ],
     "productName": "Dzirkstošais vīns MARTINI Prosecco Rose 11,5%0,75L",
     "productPriceOld": null,
@@ -122994,11 +122734,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns VALDO DOC Prosecco Rose 11%0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -123356,11 +123091,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns LA GIOIOSA ROSEA BRUT 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -124197,8 +123927,8 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1001,
-      1001003
+      1003,
+      1003003
     ],
     "productName": "B.v. 3 Passo Organico Bianco,sauss 13,0% 0,75",
     "productPriceOld": null,
@@ -124521,11 +124251,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns B&G Chardonnay 12% 750ml",
     "productPriceOld": null,
     "productPrice": {
@@ -126657,11 +126382,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkst.vīns CALVET Cremant 12% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -130982,11 +130702,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Zilver Rabarberu 10% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -131005,11 +130720,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Zilver Rabarberu 10% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -131327,11 +131037,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns Calvet Cremant de Bordeaux Brut Rose 12% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -132407,11 +132112,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns CODORNIU Classic Brut Cava 11,5% 0,2L",
     "productPriceOld": null,
     "productPrice": {
@@ -133205,8 +132905,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001003
+      1002,
+      10010026
     ],
     "productName": "Dzirkst.vīns LACHETEAU BRUT 12% 0,75l",
     "productPriceOld": null,
@@ -133228,8 +132928,8 @@
     "shop": "MAXIMA",
     "categories": [
       1,
-      1001,
-      1001003
+      1002,
+      10010026
     ],
     "productName": "Dzirkst.vīns LACHETEAU ROSE 12,5% 0,75L",
     "productPriceOld": null,
@@ -133960,11 +133660,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns B&G Cremant de Bordeaux 12% 750ml",
     "productPriceOld": null,
     "productPrice": {
@@ -134006,11 +133701,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns B&G Crem.de Bord.Rose 12,5%0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -135290,11 +134980,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais Vīns FAMILLE MOUTARD BLANC 12%0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -135385,7 +135070,7 @@
     "categories": [
       1,
       1001,
-      1001003
+      10010018
     ],
     "productName": "Dzirkstošais vīns MARTINI Asti 7,5% 0,2L",
     "productPriceOld": null,
@@ -138916,11 +138601,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns ABAVAS Rabarberu 12% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -139026,11 +138706,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns PASQUA PROSECCO 11% 0,75L",
     "productPriceOld": null,
     "productPrice": {
@@ -139475,11 +139150,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns BOTTEGA Gold Prosecco  11%0,75L",
     "productPriceOld": {
       "value": 26.16,
@@ -141590,11 +141260,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Dzirkstošais vīns B&G Crem.de Bourgogne 12% 0,75L",
     "productPriceOld": null,
     "productPrice": {
