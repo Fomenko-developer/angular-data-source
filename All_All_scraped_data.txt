@@ -29362,9 +29362,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      20010011
+      3,
+      3001,
+      30010013
     ],
     "productName": "Arbūzi bez sēklām kg",
     "productPriceOld": null,
@@ -53785,9 +53785,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010011
+      1,
+      1002,
+      10010027
     ],
     "productName": "Dzēriens Aloe Vera ar chia sēklām 0,5l",
     "productPriceOld": null,
@@ -72180,7 +72180,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      2001009,
       2001001
     ],
     "productName": "Pilngraudu burgera Maiziņš 240g",
@@ -82257,7 +82257,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "GALETES BRŪNO RĪSU AR 7 SUPER SĒKLĀM 120G",
     "productPriceOld": {
@@ -88477,7 +88477,7 @@
     "categories": [
       2,
       2001,
-      2001008
+      20010015
     ],
     "productName": "Galetes Saules Graudi četrgraudu 120g",
     "productPriceOld": null,
@@ -91248,7 +91248,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Grissini ar pilngraudu miltiem 125g",
@@ -91364,7 +91364,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Rīsu galetes KUPIEC ar ķirbju sēklām 90G",
     "productPriceOld": {
@@ -91390,7 +91390,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Rīsu galetes KUPIEC ar čia sēklām 90G",
     "productPriceOld": {
@@ -95742,7 +95742,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "GALETES KUKURŪZAS PLĀCENĪŠI AR LINSĒKLĀM RACIO 115G",
     "productPriceOld": null,
@@ -95807,12 +95807,6 @@
   },
   {
     "shop": "MAXIMA",
-    "categories": [
-      2,
-      2001,
-      2001008,
-      2001001
-    ],
     "productName": "Pilngraudu standziņas 200g",
     "productPriceOld": null,
     "productPrice": {
@@ -99738,7 +99732,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Kukurūz.galetes RACIO ar linsēklām 115g",
     "productPriceOld": null,
@@ -107757,7 +107751,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Lavašs pilngraudu 120g",
@@ -107804,7 +107798,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Pilngraudu lavašs 120g",
@@ -126409,11 +126403,6 @@
   },
   {
     "shop": "RIMI",
-    "categories": [
-      2,
-      2001,
-      20010011
-    ],
     "productName": "Sēklu standziņas ar jūras sāli 150g",
     "productPriceOld": null,
     "productPrice": {
@@ -163466,7 +163455,7 @@
     "categories": [
       2,
       2001,
-      2001008
+      20010015
     ],
     "productName": "Rīsu galetes graudu KUPIEC bez glutēna 90g",
     "productPriceOld": null,
