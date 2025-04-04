@@ -12666,9 +12666,9 @@
   {
     "shop": "CITRO",
     "categories": [
-      2,
-      2001,
-      20010014
+      1,
+      1002,
+      10010020
     ],
     "productName": "SULA CIDO DĀRZEŅU 1L",
     "productPriceOld": {
@@ -17538,9 +17538,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010014
+      1,
+      1002,
+      10010020
     ],
     "productName": "Dārzeņu sula Rimi 100% 1L",
     "productPriceOld": null,
@@ -21478,9 +21478,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      20010014
+      1,
+      1002,
+      10010020
     ],
     "productName": "Sula CIDO dārzeņu 100% 1L",
     "productPriceOld": null,
@@ -23901,9 +23901,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010014
+      1,
+      1002,
+      10010020
     ],
     "productName": "Sula Cido dārzeņu 1l",
     "productPriceOld": null,
@@ -47145,9 +47145,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010014
+      3,
+      3002,
+      4002005
     ],
     "productName": "Dārzeņu maisījums 700g",
     "productPriceOld": null,
@@ -49605,9 +49605,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      20010014
+      3,
+      3002,
+      4002005
     ],
     "productName": "Dārzeņu maisījums Coleslaw WELL DONE 300g",
     "productPriceOld": {
@@ -66064,9 +66064,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010014
+      3,
+      3002,
+      4002005
     ],
     "productName": "Dārzeņu maisījums Fit&Easy Coleslaw 300g",
     "productPriceOld": null,
@@ -74881,8 +74881,7 @@
     "shop": "MAXIMA",
     "categories": [
       2,
-      2001,
-      20010011
+      2004
     ],
     "productName": "Kruasāns ar sēklām 78g",
     "productPriceOld": null,
@@ -88711,8 +88710,7 @@
     "shop": "MAXIMA",
     "categories": [
       2,
-      2001,
-      20010011
+      20010
     ],
     "productName": "Našķīši ar gaļu un  saulespuķu sēklām atkausēts 200g",
     "productPriceOld": null,
@@ -95807,6 +95805,12 @@
   },
   {
     "shop": "MAXIMA",
+    "categories": [
+      2,
+      2001,
+      20010015,
+      2001001
+    ],
     "productName": "Pilngraudu standziņas 200g",
     "productPriceOld": null,
     "productPrice": {
@@ -98484,8 +98488,7 @@
     "shop": "RIMI",
     "categories": [
       2,
-      2001,
-      20010011
+      2003
     ],
     "productName": "Siera cepumi ar sēklām kg",
     "productPriceOld": null,
@@ -102980,7 +102983,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "SAUSMAZĪTES SELGA NATURE AR SĒKLĀM 200G",
     "productPriceOld": {
@@ -112700,7 +112703,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Sausm. Selga ar saulesp. sēk., linsēklām 200g",
     "productPriceOld": null,
@@ -112723,7 +112726,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Sausm. Selga ar auzu p., saulesp. sēklām 200g",
     "productPriceOld": null,
@@ -126403,6 +126406,11 @@
   },
   {
     "shop": "RIMI",
+    "categories": [
+      2,
+      2001,
+      20010015
+    ],
     "productName": "Sēklu standziņas ar jūras sāli 150g",
     "productPriceOld": null,
     "productPrice": {
@@ -147022,7 +147030,7 @@
     "categories": [
       2,
       2001,
-      20010011
+      20010015
     ],
     "productName": "Sēklu krekeri THE BEGINNINGS jūr.sāl.80g",
     "productPriceOld": null,
@@ -159814,9 +159822,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2001,
-      20010014
+      1,
+      1002,
+      10010020
     ],
     "productName": "Sula Elmenhorster dārzeņu 100% 1l",
     "productPriceOld": null,
@@ -163739,9 +163747,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2001,
-      20010014
+      3,
+      3002,
+      4002005
     ],
     "productName": "Dārzeņu maisījums zupai tvaicēts 300g",
     "productPriceOld": null,
