@@ -77770,8 +77770,9 @@
   {
     "shop": "MAXIMA",
     "categories": [
-      2,
-      2005
+      1,
+      1001,
+      1001003
     ],
     "productName": "Vīns ABAVAS Ābolkūka 10% 0,75L",
     "productPriceOld": {
@@ -110213,8 +110214,9 @@
   {
     "shop": "RIMI",
     "categories": [
-      2,
-      2005
+      1,
+      1001,
+      1001003
     ],
     "productName": "Vīns Abavas Ābolkūka 10% 0,75l",
     "productPriceOld": null,
