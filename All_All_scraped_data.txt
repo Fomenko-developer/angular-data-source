@@ -23,29 +23,6 @@
     "discount": null
   },
   {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010024
-    ],
-    "productName": "ŪDENS DZERAMAIS AQUA NEGĀZĒTS 5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 0.79,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 0.16,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/12/4751027560546-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -157,29 +134,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_115562_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010024
-    ],
-    "productName": "ŪDENS DZERAMAIS ZAĶUMUIŽA 5.2L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.19,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 0.23,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/10/4751000750025-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -2960,32 +2914,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/02/4751020121669-300x300.jpg",
-    "available": true,
-    "discount": 9
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010024
-    ],
-    "productName": "ŪDENS LIELBĀTA GĀZĒTS 1.5L PET",
-    "productPriceOld": {
-      "value": 1.09,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 0.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 0.66,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/02/4751020121614-300x300.jpg",
     "available": true,
     "discount": 9
   },
@@ -6535,32 +6463,6 @@
     "discount": 11
   },
   {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010023
-    ],
-    "productName": "KVASS TĒRVETES GODU 1.5L PET",
-    "productPriceOld": {
-      "value": 1.75,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.55,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 1.03,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/09/4750440000790-300x300.jpg",
-    "available": true,
-    "discount": 11
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -9952,29 +9854,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/08/4750239004824-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010023
-    ],
-    "productName": "KVASS BALTAIS NEFILTRĒTS RAUDZĒTS 1.5L PET",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.95,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 1.3,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/05/4750239004831-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -13502,35 +13381,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_195310_PCE_LV",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Aldaris Pilzenes 4,2% 0,568l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 2.55,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 0.85,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 1.5,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371267_PCE_LV",
-    "available": true,
-    "discount": 41
   },
   {
     "shop": "RIMI",
@@ -18653,29 +18503,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/03/5000112651928-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010021
-    ],
-    "productName": "DZĒRIENS GĀZ. COCA-COLA ZERO 1L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 1.85,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/03/5000112651379-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -28381,58 +28208,6 @@
       1001,
       1001005
     ],
-    "productName": "ALK.KOKT. CĒSU DŽONS AR GREIPFRŪTU GARŠU 5% 1L PET",
-    "productPriceOld": {
-      "value": 2.99,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 2.39,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.39,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/08/4750142005703-300x300.jpg",
-    "available": true,
-    "discount": 20
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "ALK. KOKT. CĒSU DŽONS PINK PANDA 5%1L CĒSU ALUS",
-    "productPriceOld": {
-      "value": 2.99,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 2.39,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.39,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/10/4750142007530-300x300.jpg",
-    "available": true,
-    "discount": 20
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
     "productName": "ALK. KOKT. CĒSU DŽONS PINK PANDA 5%1L CĒSU ALUS",
     "productPriceOld": {
       "value": 2.99,
@@ -28826,29 +28601,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_4002582_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1002,
-      10010024
-    ],
-    "productName": "Dabīgs minerālūdens Hohes C Energy 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 2.47,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373156_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -30367,29 +30119,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1356964_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Cēsu Premium Amber 5% 0,568l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 2.55,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1356197_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -32140,32 +31869,6 @@
     "discount": 30
   },
   {
-    "shop": "CITRO",
-    "categories": [
-      2,
-      2001,
-      2001002
-    ],
-    "productName": "MAIZE DRUVA ZELTA MĀKOŅMAIZE 450G",
-    "productPriceOld": {
-      "value": 1.69,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.19,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.64,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/05/4750212903021-300x300.jpg",
-    "available": true,
-    "discount": 30
-  },
-  {
     "shop": "RIMI",
     "categories": [
       2,
@@ -32807,29 +32510,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_134363_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1002,
-      10010020
-    ],
-    "productName": "Sula Tymbark apelsīnu 100% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 2.69,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1356858_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -34409,29 +34089,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/03/4750142005048-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010022
-    ],
-    "productName": "ENERĢIJAS DZĒR. BATTERY 0.5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.39,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 2.78,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/03/4740019003772-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -36816,35 +36473,6 @@
       1001,
       1001001
     ],
-    "productName": "Alus Piebalgas jubilejas gaišais 5,2% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.58,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 1.49,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 2.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_469217_PCE_LV",
-    "available": true,
-    "discount": 17
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
     "productName": "Alus Faxe Premium 5% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -36961,35 +36589,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_116389_PCE_LV",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Aldaris Ķirsis 4,5% 0,568l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.61,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 1.69,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 2.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371268_PCE_LV",
-    "available": true,
-    "discount": 18
   },
   {
     "shop": "RIMI",
@@ -39831,52 +39430,6 @@
       1001,
       1001001
     ],
-    "productName": "Alus Cēsu Premium Bohemian 4,5% 0,568l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.75,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.08,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1363409_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Aldaris Luksus 5,2% 0,568l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.75,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.08,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371265_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
     "productName": "Alus Aldaris Luksus 5,2% 0,568l",
     "productPriceOld": null,
     "productPrice": {
@@ -40349,29 +39902,6 @@
       1002,
       10010022
     ],
-    "productName": "Enerģētiskais dzēriens Battery 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1369149_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1002,
-      10010022
-    ],
     "productName": "Enerģijas dzēr. Cult Energy Anime Ice 500ml",
     "productPriceOld": null,
     "productPrice": {
@@ -40545,29 +40075,6 @@
       1001,
       1001005
     ],
-    "productName": "Alus Radler Watermelon 2,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1364170_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
     "productName": "Alus Cēsu Radler zemeņu 2,5% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -40629,35 +40136,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_458830_PCE_LV",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Brūveris Luxury 5,2% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.75,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.5,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 1.55,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 3.1,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1352613_PCE_LV",
-    "available": true,
-    "discount": 11
   },
   {
     "shop": "RIMI",
@@ -41768,29 +41246,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1361623_PCE_LV",
     "available": true,
     "discount": 18
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Baltalus 4,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.59,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.18,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1356781_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "MAXIMA",
@@ -43056,35 +42511,6 @@
     "discount": 25
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Cēsu Light Lime 4,2% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 4.39,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 1.09,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 3.3,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1360744_PCE_LV",
-    "available": true,
-    "discount": 25
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -43964,29 +43390,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1356325_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Lāčplēsis Dzintara 4,8% 0,5l pudele",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.38,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_656496_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -46468,29 +45871,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Lido Dzirnavu 5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.58,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1368154_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -46657,29 +46037,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/04/4750142007066-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "ALUS MEŽPILS 5.3% 0.5L SKĀRD.",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.79,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 3.58,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/07/4750049004090-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -48023,52 +47380,6 @@
       1001,
       1001002
     ],
-    "productName": "Sidrs Dārza upeņu 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1372799_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs Dārza Jāņogu 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371589_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
     "productName": "Sidrs Dārza mežaogu 5,5% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -48151,75 +47462,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1368453_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs Dārza upeņu 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371051_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs Dārza upeņu 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371051_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs Dārza upeņu 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 3.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371051_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -48845,29 +48087,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/a739d637-63e5-4505-bc90-6c22197228a6_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs DĀRZA Upeņu 5,5% 0,5L D",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.87,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 3.74,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://cdn.barbora.lv/products/99ba1b1f-a29a-4162-81d1-64450668d979_s.png",
     "available": true,
     "discount": null
   },
@@ -50269,29 +49488,6 @@
     "discount": null
   },
   {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1002,
-      10010027
-    ],
-    "productName": "KAFIJAS DZĒRIENS EIS COFFEE 250G",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 0.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 3.96,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/06/4003490096542-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "RIMI",
     "categories": [
       2,
@@ -51400,29 +50596,6 @@
   {
     "shop": "CITRO",
     "categories": [
-      2,
-      2001,
-      2001002
-    ],
-    "productName": "BALTMAIZE RUDZU LIELMAIZE 500G LATVIJASM",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 3.98,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/10/4750192732802-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
       3,
       3002,
       3002009
@@ -52355,29 +51528,6 @@
     "categories": [
       1,
       1001,
-      1001002
-    ],
-    "productName": "Sidrs Lielvārdes Craft 5,6% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 4.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371929_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001001
     ],
     "productName": "Alus Leffe Blonde 6,6% 0.5l",
@@ -52393,29 +51543,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1364036_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Aldaris ķiršu 4,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 4.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371468_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -52485,29 +51612,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371554_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Aldaris Medalus 4% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 4.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371467_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -52977,29 +52081,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371054_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Bauskas tumšais 5,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.09,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 4.18,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_461952_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -56556,35 +55637,6 @@
     "categories": [
       1,
       1001,
-      1001001
-    ],
-    "productName": "Alus Blue Moon kviešu 5,4% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 6.03,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 1.49,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 4.52,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373144_PCE_LV",
-    "available": true,
-    "discount": 25
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001002
     ],
     "productName": "Sidrs Rekorderlig Passionfruit 4,5% 0,33l",
@@ -59129,32 +58181,6 @@
     "discount": 18
   },
   {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001004
-    ],
-    "productName": "DZ.VĪNS COSMOPOLITAN DĪVA MOJITO 5.5% 0.75L",
-    "productPriceOld": {
-      "value": 4.49,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 3.69,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 4.92,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/05/4750021012983-300x300.jpg",
-    "available": true,
-    "discount": 18
-  },
-  {
     "shop": "RIMI",
     "categories": [
       2,
@@ -61145,29 +60171,6 @@
       1001,
       1001001
     ],
-    "productName": "Alus Madonas tumšais 5,2% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1370812_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
     "productName": "Alus Krombacher Pils 4,8% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -61747,29 +60750,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/07/90448065-300x300.jpg",
     "available": true,
     "discount": 13
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      3,
-      3002,
-      3002005
-    ],
-    "productName": "SĒNES ŠAMPINJONI FASĒTI 250G",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.29,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 5.16,
-      "unit": "€/KG"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/Sampinjoni-faseti-300x300.jpg",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "CITRO",
@@ -63541,29 +62521,6 @@
       1001,
       1001001
     ],
-    "productName": "Alus Užavas gaišais 4,6% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.42,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1364059_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
     "productName": "Alus Sol 4,5% 0,33l",
     "productPriceOld": null,
     "productPrice": {
@@ -64504,32 +63461,6 @@
     "discount": 12
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Labietis Mežs 5,5% 0,44l",
-    "productPriceOld": {
-      "value": 2.79,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 2.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.57,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373533_PCE_LV",
-    "available": true,
-    "discount": 12
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       2,
@@ -64882,52 +63813,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/b1cb89b4-1bfb-4838-b541-601de987007d_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Kronenbourg 5% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.61,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371259_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Corona Extra 4,5% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.61,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371039_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -65928,29 +64813,6 @@
     "shop": "RIMI",
     "categories": [
       1,
-      1003,
-      1003005
-    ],
-    "productName": "Alkoholisks kokteilis Rose Gin 5,0% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.73,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373740_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
       1001,
       1001002
     ],
@@ -65990,29 +64852,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373177_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1003,
-      1003005
-    ],
-    "productName": "Alkoholisks kokteilis Rose Gin 5,0% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.73,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373740_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -66917,52 +65756,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1368822_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Anarkist New England IPA 5,4% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.9,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1368822_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Birra Moretti 4,6% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 5.91,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1351134_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -71055,29 +69848,6 @@
       1001,
       1001001
     ],
-    "productName": "Alus Labietis Pļava 6,3% 0,44l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 6.57,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373526_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
     "productName": "Alus Weihenstephaner Hefe Weissbier 5,4% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -72245,29 +71015,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373176_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus Labietis Aroniju ragana 5,1% 0,44l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 6.8,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1373544_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -74537,29 +73284,6 @@
       1001,
       1001005
     ],
-    "productName": "ALK.KOKT. LB ĶIRSIS 14.5% 0.275L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 1.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.24,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/07/4750021011917-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
     "productName": "ALK.KOKT.LB KOKTEILIS ROKS KOLA 14.5% 0.275L",
     "productPriceOld": null,
     "productPrice": {
@@ -75025,58 +73749,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/7804320559001-300x300.jpg",
     "available": true,
     "discount": 11
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS B. GATO NEGRO CHARDONNAY 13% 0.75L",
-    "productPriceOld": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 5.49,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.32,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/04/7804300120641-1-300x300.jpg",
-    "available": true,
-    "discount": 8
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS S. GATO NEGRO CABERNET SAUVIGNON 13% 0.75L",
-    "productPriceOld": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 5.49,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.32,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/7804300010638-300x300.jpg",
-    "available": true,
-    "discount": 8
   },
   {
     "shop": "CITRO",
@@ -76432,58 +75104,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/07/4003301016950-300x300.jpg",
     "available": true,
     "discount": 19
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "ALK.KOKT. BLACK BALSAM COLA 12% 0.25L",
-    "productPriceOld": {
-      "value": 2.39,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 2.09,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.6,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/05/4750012001040-1-300x300.jpg",
-    "available": true,
-    "discount": 13
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "ALK.KOKT. BLACK BALSAM CHERRY 12% 0.25L",
-    "productPriceOld": {
-      "value": 2.29,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 2.09,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.6,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/05/4750012001064.png",
-    "available": true,
-    "discount": 9
   },
   {
     "shop": "CITRO",
@@ -78720,35 +77340,6 @@
       1001,
       1001003
     ],
-    "productName": "B.v. Ruppertsberger Gewürzt. 11% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 15,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 7.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7086406_PCE_LV",
-    "available": true,
-    "discount": 47
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "B.v.Ruppertsber. Riesl.Troc. 12,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -79905,52 +78496,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/06/5010429000074-1-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1003,
-      1003003
-    ],
-    "productName": "VĪNS BEZALK.BLUE NUN LIGHT WHITE 0% PUSSALDS BALTS 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.99,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/4751017122020-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1003,
-      1003003
-    ],
-    "productName": "VĪNS BEZALK.BLUE NUN LIGHT WHITE 0% PUSSALDS BALTS 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 7.99,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/4751017122020-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -81237,29 +79782,6 @@
       1001,
       1001006
     ],
-    "productName": "Vermuts Bellissimo Rosso 14,5% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 8.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 8.29,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_810917_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
     "productName": "Vermuts Bellissimo Bianco 14,5% 1l",
     "productPriceOld": null,
     "productPrice": {
@@ -81455,75 +79977,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371634_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "Alk. kokt. Garage Hardc Grapefruit 6%0,275l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 8.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371618_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "Alkohol. kokteilis Garage Cherry 6% 0,275l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 8.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1371634_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "Alk. k. LB Džims Toniks Greipfr. 14,5% 0,275l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 2.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 8.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7247330_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -86449,35 +84902,6 @@
       1001,
       1001003
     ],
-    "productName": "R.v. Monte Zovo Bardolino 12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 17.72,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 6.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 9.32,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7109578_PCE_LV",
-    "available": true,
-    "discount": 47
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "S.v. Chateau Pierron, sauss 13% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -87228,52 +85652,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/05/8594045653311-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS S. NEXT KANGAROO SHIRAZ CABERNET SAUSS 13.5% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 6.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 9.32,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/05/8594045653311-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS R.PUSSALDS GRAN CASTILLO IBIZA BOBAL MOSCATO ROSE 11% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 6.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 9.32,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2025/02/4740158011584-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -88540,29 +86918,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/0dac1712-09dc-4cd0-932c-d9dd5726224c_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "Sarkanvīns Monte Zovo Valpolicella 13% 3l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 28.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 9.6,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7235859_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -90930,29 +89285,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001002
-    ],
-    "productName": "Sidrs Henry Westons Vintage 8,2% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 9.98,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1353757_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -91648,35 +89980,6 @@
       "unit": "€/l"
     },
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7065591_PCE_LV",
-    "available": true,
-    "discount": 30
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. Le Grand Noir Viognier 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 14.39,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 7.59,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 10.12,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7065594_PCE_LV",
     "available": true,
     "discount": 30
   },
@@ -94296,29 +92599,6 @@
       1001,
       1001003
     ],
-    "productName": "VĪNS S. GATO 9 LIVES RESERVA CABERENET SAUV. 13.5% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 7.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 10.65,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/09/7804300139230-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "VĪNS B. GRAND NOIR VIOGNIER 12.5% 0.75L",
     "productPriceOld": {
       "value": 8.99,
@@ -94363,29 +92643,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/3378630020123-300x300.jpg",
     "available": true,
     "discount": 11
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS R. CASA CHARLIZE FLOREALE PINOT GRIGIO BLUSH 12% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 7.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 10.65,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/06/4740158009987-300x300.jpg",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "CITRO",
@@ -94568,52 +92825,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/9300727508287-233x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS B. JACOBS CREEK CHARDONNAY 13% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 7.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 10.65,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2022/05/9300727406538-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS B. JACOBS CREEK RIESLING 13% 0.75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 7.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 10.65,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/10/9300727389275-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -96298,64 +94509,6 @@
     "discount": 30
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
-    "productName": "Vermuts Martini Extra Dry 15% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 15.69,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 10.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 10.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_101478_PCE_LV",
-    "available": true,
-    "discount": 30
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
-    "productName": "Vermut Martini Fiero 14,9%vol 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 15.69,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 10.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 10.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7231724_PCE_LV",
-    "available": true,
-    "discount": 30
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       2,
@@ -96485,29 +94638,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/98800c2b-dc41-480d-b4a2-6ee1d9ab94c2_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "VĪNS B. HXM RIESLING TROCKEN 11.5% 1L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 10.99,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/03/4049366001043-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -100317,29 +98447,6 @@
       1001,
       10010013
     ],
-    "productName": "LIĶIERIS CRANBERRY 18% 0.5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 5.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 11.98,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/10/4740077012334-300x300.jpeg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      10010013
-    ],
     "productName": "LIĶIERIS PEPPERMINT 18% 0.5L",
     "productPriceOld": null,
     "productPrice": {
@@ -100903,52 +99010,6 @@
     "categories": [
       1,
       1001,
-      1001005
-    ],
-    "productName": "Alkoh. kok. Ezermežs Cloudy Mohito 4,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 8.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 11.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1372477_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001005
-    ],
-    "productName": "Alkohol. kokteilis Ezermežs Punšs 4,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 8.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 11.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1372478_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001003
     ],
     "productName": "Rozā vīns Sensi Tua Rosa 12,5% 0,75l",
@@ -101297,32 +99358,6 @@
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/08/7804320301174-300x300.jpg",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
-    "productName": "VERMUTS MARTINI FIERO 14.9% 1L",
-    "productPriceOld": {
-      "value": 14.99,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 11.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 11.99,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2020/12/7630040402521-300x300.jpg",
-    "available": true,
-    "discount": 20
   },
   {
     "shop": "CITRO",
@@ -102645,29 +100680,6 @@
       1001,
       1001003
     ],
-    "productName": "S.v. L.Marques Rioja Crianza 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 9.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 12.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7145207_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "R.v. Rosé d’été, Pays d’Oc 12,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -102681,29 +100693,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7188674_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. Take Root Chardonnay 12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 9.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 12.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7250681_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -103964,29 +101953,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
-    "productName": "Vermuts Cinzano Bianco 15% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.75,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 12.75,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_102200_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -104661,31 +102627,6 @@
       3,
       3002,
       30020016
-    ]
-  },
-  {
-    "shop": "RIMI",
-    "productName": "Pētersīļi 100g",
-    "productPriceOld": {
-      "value": 1.59,
-      "unit": "€"
-    },
-    "productPrice": {
-      "value": 1.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 12.9,
-      "unit": "€/kg"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_902455_PCE_LV",
-    "available": true,
-    "discount": 19,
-    "categories": [
-      3,
-      3004
     ]
   },
   {
@@ -106013,29 +103954,6 @@
       2001,
       20010015
     ]
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001001
-    ],
-    "productName": "Alus La Chouffe 8% 0,33l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 13.3,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1361123_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "RIMI",
@@ -108147,29 +106065,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Piteira Premium Alentejo 13,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.29,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 13.72,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7220740_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -109483,29 +107378,6 @@
       1001,
       1001003
     ],
-    "productName": "B.v.B&G Sauvignon Reserve 11,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 13.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_140427_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "Arom. vīna dzēr. Fragolino Giacob. 7,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -109519,29 +107391,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7220678_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. B&G Merlot Reserve 13,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 13.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_138279_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -113289,29 +111138,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001007
-    ],
-    "productName": "Rums Bartender's Club gaišais 37.5% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 14.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_802156_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -113581,29 +111407,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7086389_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Las Invernadas Cabern. Sauv. 13,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 15,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7238717_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -114003,29 +111806,6 @@
     "categories": [
       1,
       1001,
-      1001003
-    ],
-    "productName": "Vīns CONO SUR Sauvignon Blanc 12% 0,75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.29,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 15.05,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://cdn.barbora.lv/products/5b7e6810-b59b-4cf3-82d6-5c02a83d5ee8_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "MAXIMA",
-    "categories": [
-      1,
-      1001,
       1001004
     ],
     "productName": "Dz.v.MURVIEDRO Cava Br.Nature 11,5%0,75L",
@@ -114332,35 +112112,6 @@
     "imageUrl": "https://cdn.barbora.lv/products/9d3aa29b-5aa8-472d-a880-2a1feb105c20_s.png",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Gorilka Pšeničnaja 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 28.5,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 7.59,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 15.18,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7281614_PCE_LV",
-    "available": true,
-    "discount": 47
   },
   {
     "shop": "RIMI",
@@ -116266,29 +114017,6 @@
       1001,
       1001003
     ],
-    "productName": "S.v. Montalto Nero D'Avola Appass.14% 0.75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 15.85,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7045074_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "B.v. Montalto Collezione 12,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -117989,29 +115717,6 @@
     "categories": [
       1,
       1001,
-      1001003
-    ],
-    "productName": "B.v. Pluma DOC Vinho Verde 10,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 16.25,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7201793_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001004
     ],
     "productName": "Dzirkstošais vīns Cinzano Sweet 9,5% 0,75l",
@@ -118326,52 +116031,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7198647_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v.Piemonte Doc Barbera Passito14%0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 16.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7198647_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v.Domaines Vinsmos. Pinot L.12%0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 16.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7164054_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -120499,35 +118158,6 @@
     "discount": 14
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Moskovskaja 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 19.93,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 11.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 17.13,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_459995_PCE_LV",
-    "available": true,
-    "discount": 14
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -121274,35 +118904,6 @@
     "categories": [
       1,
       1001,
-      1001003
-    ],
-    "productName": "S.v.Matua Valley Pinot Noir 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.25,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 12.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 17.32,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7179963_PCE_LV",
-    "available": true,
-    "discount": 14
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001004
     ],
     "productName": "Dz.v. Sensi Pure Prosecco Rose 11% 0,75l",
@@ -121756,29 +119357,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_4001341_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010019
-    ],
-    "productName": "Alkoholiskais dzēr. Imperial XII VS 30% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 8.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 17.38,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7048268_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -122269,29 +119847,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_134749_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. J.P.Chenet Moelleux Bl. 12% 0,25L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 17.56,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_134750_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -123689,35 +121244,6 @@
     "categories": [
       1,
       1001,
-      10010010
-    ],
-    "productName": "Brendijs Bartender's Club VSOP 36% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.59,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 25.18,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 8.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 17.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_809851_PCE_LV",
-    "available": true,
-    "discount": 29
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010016
     ],
     "productName": "Degvīns Stumbras Vodka 40% 0,5l",
@@ -123739,35 +121265,6 @@
       "unit": "€/l"
     },
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_140209_PCE_LV",
-    "available": true,
-    "discount": 43
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Stumbras Vodka dzērveņu 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 31.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 8.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 17.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7102525_PCE_LV",
     "available": true,
     "discount": 43
   },
@@ -125988,64 +123485,6 @@
       1001,
       1001003
     ],
-    "productName": "B.v. Edna Valley Chardonnay 14% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 19.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 26.25,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 13.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 18.65,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7239717_PCE_LV",
-    "available": true,
-    "discount": 29
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Sensi Chianti Riserva 14,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 20.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 26.92,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 13.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 18.65,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7193739_PCE_LV",
-    "available": true,
-    "discount": 31
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "S.v. Sensi Chianti Riserva 14,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -126403,29 +123842,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001006
-    ],
-    "productName": "Vermuts Martini Bianco 15% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.15,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 18.87,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_460365_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -126514,29 +123930,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7214691_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001004
-    ],
-    "productName": "Dz.v. La Gioiosa Prosecco Rose 11% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 18.92,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7246272_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -127077,29 +124470,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S. v. Vilamar Merlot Cabernet Sauv. 14% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 19,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7221058_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       2,
@@ -127518,29 +124888,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/6a4d041c-c213-4df3-85ec-80e1bedc1807_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Mernaja na Moloke 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 19.21,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_712882_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -128434,29 +125781,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/08/4820225080368-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Masi Passo Rosso BIO 14% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 19.8,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7209818_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -129677,35 +127001,6 @@
     "categories": [
       1,
       1001,
-      10010012
-    ],
-    "productName": "Džins Saaremaa Orange 37,5% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 29.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 9.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 19.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7246716_PCE_LV",
-    "available": true,
-    "discount": 33
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010016
     ],
     "productName": "Degvīns Nemiroff Delikat 40% 0,5l",
@@ -129750,29 +127045,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_445696_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010013
-    ],
-    "productName": "Liķieris Koskenkorva Mojito 15% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 9.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 19.98,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7234602_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -130242,35 +127514,6 @@
     "categories": [
       1,
       1001,
-      1001003
-    ],
-    "productName": "S.v.Masseria Pietrosa Primitivo 14% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 21.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 29.19,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 14.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 19.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7201422_PCE_LV",
-    "available": true,
-    "discount": 32
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001007
     ],
     "productName": "Rums Colonist Spiced Black 40% 0,7l",
@@ -130497,35 +127740,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_104776_PCE_LV",
     "available": true,
     "discount": 26
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Absolut Citron 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 22.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.13,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 13.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 19.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_101819_PCE_LV",
-    "available": true,
-    "discount": 38
   },
   {
     "shop": "RIMI",
@@ -131008,29 +128222,6 @@
     "categories": [
       1,
       1001,
-      1001004
-    ],
-    "productName": "Dzirkstošais vīns Zilver Rabarberu 10% 0,75L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.09,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.12,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7110236_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001003
     ],
     "productName": "Baltvīns Juan Gil Jumilla, sauss 13,5% 0,75l",
@@ -131414,52 +128605,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7238670_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. J.Faber Spatlese Riesling 8,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7238670_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v.F. Paternina Rioja Gr.Res.13,5%0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.33,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7167879_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -131926,29 +129071,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/938a316a-1677-4e4e-9e04-3194fd409b4f_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. Sentidino Albarino 12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.52,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7167366_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -132757,52 +129879,6 @@
     "categories": [
       1,
       1001,
-      1001004
-    ],
-    "productName": "Dz. v. Codorniu Clasico Cava Brut 11,5% 0,20l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.95,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7199831_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001004
-    ],
-    "productName": "Dz. v. Codorniu Clasico Cava Brut 11,5% 0,20l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 20.95,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7199831_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010019
     ],
     "productName": "Stiprs alkoholsiks dzēriens Forum 36% 0,2l",
@@ -133179,29 +130255,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Zantho Zweigelt 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.75,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7193737_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -133267,75 +130320,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/ed4452ad-5385-4f03-9cd2-fb3f3b87cb8a_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Desire 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7287449_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Desire Orange 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7287480_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Desire 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.1,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7287449_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -134545,52 +131529,6 @@
     "categories": [
       1,
       1001,
-      10010016
-    ],
-    "productName": "DEGVĪNS ICE PALACE VODKA 40% 0.7L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 21.41,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2024/12/4820268610683-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "VISKIJS CLAN MACGREGOR 40% 0.7L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 21.41,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2023/12/5010327905105-300x300.jpg",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
       10010019
     ],
     "productName": "ST.ALK.DZ. STRANGE LUVE NEGRONI COCTAIL 27% 0.7L",
@@ -135178,29 +132116,6 @@
     "categories": [
       1,
       1001,
-      1001003
-    ],
-    "productName": "B.v. Laroche Art Des Sens Chardon. 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 16.19,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.59,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7220707_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001004
     ],
     "productName": "Dz.v. Moutard Blanc de Blancs 12% 0,75l",
@@ -135477,29 +132392,6 @@
     "categories": [
       1,
       1001,
-      1001004
-    ],
-    "productName": "Dz.v.Martini Asti 7,5% 0,2l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.35,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.75,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_589726_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010016
     ],
     "productName": "Degvīns Arsenič 40% 1l",
@@ -135721,29 +132613,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_127203_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "Augļu v. Abavas upeņu saldais 10% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 21.98,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7142989_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -136602,29 +133471,6 @@
       1001,
       1001003
     ],
-    "productName": "S.v. L. Marques Rioja Gr.Res. 13% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 16.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.52,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7145233_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
     "productName": "B.v. Grimaldi Gavi 12,5% 0,75l",
     "productPriceOld": null,
     "productPrice": {
@@ -137023,52 +133869,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Zubrowka Biala 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7213307_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Zubrowka Biala 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 15.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7213307_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -137226,75 +134026,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_139285_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Arom. degvīns Arsenič dzērveņu 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_735447_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Arom. degvīns Arsenič smiltsērk. 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_744006_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Arom. degvīns Arsenič ābolu 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 11.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 22.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_792568_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -139209,29 +135940,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Saaremaa 37,5% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 16.65,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 23.79,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7204526_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -141006,29 +137714,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010014
-    ],
-    "productName": "Balzams Rīgas Melnais 45% 0,2l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 4.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 24.95,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_466640_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -142468,29 +139153,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010019
-    ],
-    "productName": "Alkoholisks dzēriens Stumbro Starka 43% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 12.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 25.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_688925_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -142533,29 +139195,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7298267_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v.Leyda Single Vineyard Sauvign.12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 19.35,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 25.8,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7182219_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -143043,29 +139682,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7240746_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Stumbras Vodka 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 18.25,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 26.07,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_689706_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -144391,29 +141007,6 @@
       1001,
       10010013
     ],
-    "productName": "Liķieris Koskenkorva Passion fruit 21% 0,5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.38,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7267291_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010013
-    ],
     "productName": "Liķieris Koskenkorva Rabarber 21% 0,5l",
     "productPriceOld": null,
     "productPrice": {
@@ -144496,52 +141089,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7019102_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "B.v. Kim Crawford Marlb. 12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 20.59,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.45,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7019102_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Bartender's Club Scotch 40% 0,2l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 5.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.45,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_802166_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -144706,29 +141253,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_101946_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010010
-    ],
-    "productName": "Brendijs Old Kakheti 3 Years 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.85,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7262710_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -144967,29 +141491,6 @@
     "categories": [
       1,
       1001,
-      10010016
-    ],
-    "productName": "Arom. degv. Arsenič smiltsērkšķu 40% 0,35l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 9.79,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.97,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_140064_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010013
     ],
     "productName": "Liķieris Limoncino Bottega 30% 0,5l",
@@ -145013,29 +141514,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_670637_PCE_LV",
     "available": true,
     "discount": 30
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Khortytsa Platinum 40% 0,5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 13.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 27.98,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7277533_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "RIMI",
@@ -145178,35 +141656,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_460202_PCE_LV",
     "available": true,
     "discount": 13
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001003
-    ],
-    "productName": "S.v. Monte Zovo Amarone15% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 32.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 43.85,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 20.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 27.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7160270_PCE_LV",
-    "available": true,
-    "discount": 36
   },
   {
     "shop": "RIMI",
@@ -145655,29 +142104,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/cd95203b-f03d-4fc6-9ea5-18313a55c491_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "CITRO",
-    "categories": [
-      1,
-      1001,
-      10010019
-    ],
-    "productName": "ST.ALK.DZĒRIENS BACARDI SPICED 35% 0.7L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 19.99,
-      "unit": "€"
-    },
-    "productPricePerUnit": {
-      "value": 28.56,
-      "unit": "€/L"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rezekne.citro.lv/wp-content/uploads/2021/09/7610113007518-300x300.jpg",
     "available": true,
     "discount": null
   },
@@ -146184,29 +142610,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/bc131614-9117-4172-8457-0282dfda86fc_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Finsbury Wild Strawberry 37,5% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 20.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 29.21,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7247535_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -147309,29 +143712,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Scottish Leader Original 40% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 14.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 29.9,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7145433_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -147453,29 +143833,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010014
-    ],
-    "productName": "Balzams Rīgas Melnais 45% 0,35l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 10.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 29.97,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_460020_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -147497,35 +143854,6 @@
     "imageUrl": "https://cdn.barbora.lv/products/2a6b0489-70ce-4d72-bb2a-7effed791270_s.png",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Jack Daniels 40% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 35.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 35.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 29.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 29.99,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_101841_PCE_LV",
-    "available": true,
-    "discount": 17
   },
   {
     "shop": "RIMI",
@@ -148221,29 +144549,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_651048_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Nemiroff Delikat 40% 0,2l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 6.15,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 30.75,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7203786_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -149349,29 +145654,6 @@
     "categories": [
       1,
       1001,
-      1001009
-    ],
-    "productName": "Viskijs Johnnie Walker Red Label 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 22.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.07,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_709237_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010016
     ],
     "productName": "Degvīns Absolut Watermelon 38%  0,7L",
@@ -149625,52 +145907,6 @@
     "categories": [
       1,
       1001,
-      1001007
-    ],
-    "productName": "Rums Havana Club Especial 37,5% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 22.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.79,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7262725_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010016
-    ],
-    "productName": "Degvīns Koskenkorva Climate Action 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 22.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.84,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7247237_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010016
     ],
     "productName": "Degvīns Koskenkorva Climate Action 40% 0,7l",
@@ -149743,52 +145979,6 @@
     "imageUrl": "https://cdn.barbora.lv/products/2b179533-6630-4583-8ba5-1f3edb53bb3b_s.png",
     "available": true,
     "discount": 43
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Strange Luve Pink 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 23.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.93,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7239720_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Strange Luve London Dry 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 23.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 32.93,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7239721_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "RIMI",
@@ -150112,29 +146302,6 @@
     "categories": [
       1,
       1001,
-      10010010
-    ],
-    "productName": "Brendijs Torres 5 38% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 16.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 33.38,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_708485_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001009
     ],
     "productName": "Viskijs Grant's Tropical Fiesta 30% 0,7l",
@@ -150219,29 +146386,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_688988_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010010
-    ],
-    "productName": "Brendijs Metaxa 5 Orange 38% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 23.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 33.5,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7273076_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -150958,29 +147102,6 @@
     "categories": [
       1,
       1001,
-      10010013
-    ],
-    "productName": "Liķieris Vana Tallinn 50% 0,5l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 17.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 34.98,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_106123_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       1001009
     ],
     "productName": "Viskijs Four Roses 40% 0,7l",
@@ -150996,29 +147117,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_120145_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Tullamore Dew Honey 35%, 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 24.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 34.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7270698_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -151615,29 +147713,6 @@
       3,
       3004
     ]
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Beefeater 40% 1l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 35.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 35.95,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_678676_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "RIMI",
@@ -152834,35 +148909,6 @@
     "discount": 33
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010013
-    ],
-    "productName": "Liķieris Sheridans 15,5% 0,5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 28.45,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 56.9,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 18.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 37.98,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_129640_PCE_LV",
-    "available": true,
-    "discount": 33
-  },
-  {
     "shop": "CITRO",
     "categories": [
       1,
@@ -153022,35 +149068,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_107840_PCE_LV",
     "available": true,
     "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001007
-    ],
-    "productName": "Rums Kraken Black Spiced 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 37.05,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 52.93,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": {
-      "value": 26.99,
-      "unit": "€"
-    },
-    "productPricePerUnitWithLoyaltyCard": {
-      "value": 38.56,
-      "unit": "€/l"
-    },
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7221093_PCE_LV",
-    "available": true,
-    "discount": 27
   },
   {
     "shop": "RIMI",
@@ -153756,29 +149773,6 @@
     "categories": [
       1,
       1001,
-      1001007
-    ],
-    "productName": "Rums Dead Man's Fingers Passionfr. 37,5% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 28.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 40.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7286605_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010013
     ],
     "productName": "Liķieris Cointreau 40% 0,5l",
@@ -153794,29 +149788,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_102062_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010011
-    ],
-    "productName": "Tekila Olmeca Reposado 35% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 28.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 40.7,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7247143_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -153963,29 +149934,6 @@
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7021814_PCE_LV",
     "available": true,
     "discount": 29
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010019
-    ],
-    "productName": "Stiprs alkohol. dzēriens Metaxa 7* 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 28.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 41.41,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_712706_PCE_LV",
-    "available": true,
-    "discount": null
   },
   {
     "shop": "RIMI",
@@ -154235,29 +150183,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_678968_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Jack Daniels Tennessee Apple 35% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 29.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 42.79,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7235407_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -155176,52 +151101,6 @@
     "categories": [
       1,
       1001,
-      1001007
-    ],
-    "productName": "Rums Flor De Cana 7 Gran Reserva 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 31.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 44.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7284449_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001007
-    ],
-    "productName": "Rums Flor De Cana 7 Gran Reserva 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 31.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 44.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7284449_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
       10010012
     ],
     "productName": "Džins Bombay Sapphire Sunset 43% 0,7L",
@@ -155237,29 +151116,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7270655_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010019
-    ],
-    "productName": "Stip.v. Lustau Pedro Ximenez San 17% 0,375l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 16.95,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 45.2,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7156746_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -155894,29 +151750,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/15a24874-4663-4b6e-9879-5aa9faf1680a_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001007
-    ],
-    "productName": "Rums Diplomatico Mantuano, kastē 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 33.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 48.56,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7259246_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -156642,29 +152475,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Jack Daniels 40% 0,7l + 2 glāzes",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 36.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 52.84,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_748090_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -156896,52 +152706,6 @@
       1001,
       10010012
     ],
-    "productName": "Džins Tanqueray Sevilla 41,3% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 37.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 53.56,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7228048_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Tanqueray Blackcurrant Royale 41,3%0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 37.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 53.56,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7270521_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
     "productName": "Džins Tanqueray Blackcurrant Royale 41,3%0,7l",
     "productPriceOld": null,
     "productPrice": {
@@ -156978,29 +152742,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7282255_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001004
-    ],
-    "productName": "Šamp. Veuve Doussot Brut, sausais 12,5% 0,75l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 40.49,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 53.99,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7144532_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -158052,29 +153793,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Glendalough Double Barrel 42% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 41.55,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 59.36,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7228016_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -158896,29 +154614,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      10010012
-    ],
-    "productName": "Džins Skagerrak Nordic dry 44,9% 0,5L",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 32.39,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 64.78,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7277270_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -158961,29 +154656,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/25b63cda-3c0a-453a-989f-e129666881c5_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001008
-    ],
-    "productName": "Konjaks Bache-Gabr. VSOP Tr. Cask 40 % 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 45.89,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 65.56,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7189786_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -160952,29 +156624,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs Ardbeg 5YO Wee Beastie 47,4% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 60.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 87.13,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7262695_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -161884,29 +157533,6 @@
     "discount": null
   },
   {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001009
-    ],
-    "productName": "Viskijs The Glendronach 12YO 43% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 82.69,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 118.13,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7032352_PCE_LV",
-    "available": true,
-    "discount": null
-  },
-  {
     "shop": "MAXIMA",
     "categories": [
       1,
@@ -162018,29 +157644,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/5ca30913-38a9-4e4f-a249-2584a657e064_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001004
-    ],
-    "productName": "Šamp. Moet&Chandon Brut Imper. Rose 12% 0,2l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 25.09,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 125.45,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_7215446_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -162200,29 +157803,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://cdn.barbora.lv/products/a056d1bb-f217-41d6-ae96-81d853f45e7b_s.png",
-    "available": true,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1001,
-      1001008
-    ],
-    "productName": "Konjaks Larsen XO 40% 0,7l",
-    "productPriceOld": null,
-    "productPrice": {
-      "value": 99.99,
-      "unit": "€/gab"
-    },
-    "productPricePerUnit": {
-      "value": 142.84,
-      "unit": "€/l"
-    },
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_104862_PCE_LV",
     "available": true,
     "discount": null
   },
@@ -164171,23 +159751,6 @@
     "productPriceWithLoyaltyCard": null,
     "productPricePerUnitWithLoyaltyCard": null,
     "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_1375180_PCE_LV",
-    "available": false,
-    "discount": null
-  },
-  {
-    "shop": "RIMI",
-    "categories": [
-      1,
-      1002,
-      10010020
-    ],
-    "productName": "Sulas dzēriens Tymbark multivitamīnu 2l",
-    "productPriceOld": null,
-    "productPrice": null,
-    "productPricePerUnit": null,
-    "productPriceWithLoyaltyCard": null,
-    "productPricePerUnitWithLoyaltyCard": null,
-    "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/d_ecommerce:backend-fallback.png/MAT_135276_PCE_LV",
     "available": false,
     "discount": null
   },
