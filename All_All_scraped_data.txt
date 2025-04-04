@@ -22292,7 +22292,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. ZELTA C!DER BLACKCURRANT 4.5% 1L PET",
     "productPriceOld": {
@@ -22341,7 +22341,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. ZELTA CIDER STRAWBERRY, BLUEBERRY 4.5% 1L",
     "productPriceOld": {
@@ -23425,7 +23425,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz. CĒSU RADLER zemeņu 2,5% 0,5L D",
     "productPriceOld": {
@@ -23451,7 +23451,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.CĒSU RADLER Mojito 2,5% 0,5L D",
     "productPriceOld": {
@@ -23477,7 +23477,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz. CĒSU RADLER arbūzu 2,5% 0,5L D",
     "productPriceOld": {
@@ -26208,7 +26208,7 @@
     "categories": [
       1,
       1003,
-      1003001
+      1003005
     ],
     "productName": "ALUS KOKT. BEZALK. ZELTA RADLER GRAPEFRUIT 0.5L CAN",
     "productPriceOld": null,
@@ -27418,7 +27418,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Radler Tērvete upeņu greipfr. 2,7% 0,5l",
     "productPriceOld": null,
@@ -27476,7 +27476,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Radler Tērvete mel./smiltsērk. 2,7% 0,5l",
     "productPriceOld": null,
@@ -28405,7 +28405,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALK. KOKT. CĒSU DŽONS PINK PANDA 5%1L CĒSU ALUS",
     "productPriceOld": {
@@ -28431,7 +28431,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALK. KOKT. CĒSU DŽONS PINK PANDA 5%1L CĒSU ALUS",
     "productPriceOld": {
@@ -29354,7 +29354,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēr. SHERW. zemeņu 4,5% 1L PET D",
     "productPriceOld": null,
@@ -29377,7 +29377,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēr.SHERWOOD av.laim.4,5% 1L PET D",
     "productPriceOld": null,
@@ -31583,7 +31583,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Sherwood Wild 4,5% 1l",
     "productPriceOld": null,
@@ -31606,7 +31606,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Sherwood Raspberry Lime 4,5% 1l",
     "productPriceOld": null,
@@ -31629,7 +31629,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Sherwood Zelta ābols 4,6% 1l",
     "productPriceOld": null,
@@ -31652,7 +31652,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Sherwood Granātābols 4,5% 1l",
     "productPriceOld": null,
@@ -36101,7 +36101,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.ZELTA Cider bumbier.4,5%1L PET D",
     "productPriceOld": null,
@@ -36554,7 +36554,7 @@
     "categories": [
       1,
       1003,
-      1003001
+      1003005
     ],
     "productName": "Alus dz.Zelta Radler greipfr. bezalk. 0% 0,5l",
     "productPriceOld": null,
@@ -38145,7 +38145,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēr. Zelta C!der Strawb.-Blueb. 4,5% 1l",
     "productPriceOld": null,
@@ -38168,7 +38168,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzērie. Zelta C!der Blackcurrant 4,5% 1l",
     "productPriceOld": null,
@@ -38375,7 +38375,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz. ZELTA CIDER upeņu 4,5% 1L PET D",
     "productPriceOld": null,
@@ -39409,7 +39409,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus ZELTA RADLER greifr. 2% 0,5L sk. D",
     "productPriceOld": null,
@@ -40474,7 +40474,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Zelta Radler ar greipfrūtu garšu 2% 0,5l",
     "productPriceOld": null,
@@ -40520,7 +40520,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Radler Watermelon 2,5% 0,5l",
     "productPriceOld": null,
@@ -40543,7 +40543,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Radler Watermelon 2,5% 0,5l",
     "productPriceOld": null,
@@ -40566,7 +40566,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Cēsu Radler zemeņu 2,5% 0,5l",
     "productPriceOld": null,
@@ -40589,7 +40589,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus Cēsu Radler Mojito 2,5% 0,5l",
     "productPriceOld": null,
@@ -41944,7 +41944,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALK.KOKT. JOHAN FREITAG GIN&ROSE 5% 0.5L CĒSU ALUS",
     "productPriceOld": {
@@ -42234,7 +42234,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.TĒRV.RADL.up.greipfr.2,7% 0,5L D",
     "productPriceOld": null,
@@ -42257,7 +42257,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.TĒRV.RADL.mell.smilt.2,7% 0,5L D",
     "productPriceOld": null,
@@ -42674,7 +42674,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.ZELT.CIDER upeņu 4,5% 0,5L sk.D",
     "productPriceOld": null,
@@ -45386,7 +45386,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Zelta C!der upeņu 4,5% 0,5l",
     "productPriceOld": null,
@@ -48899,7 +48899,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens TĒRVETE ķiršu 4,0% 0,5L D",
     "productPriceOld": null,
@@ -49451,7 +49451,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens VALMIERMUIŽAS Frišs plūškoka 2,8% 0,5L D",
     "productPriceOld": null,
@@ -49984,7 +49984,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Dlight Energy 2,9% 0,33l",
     "productPriceOld": {
@@ -51218,7 +51218,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. GARAGE HARD ORANGE 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
@@ -51241,7 +51241,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. GARAGE HARD TROPICAL 6.0% 0.5L SKĀRD.",
     "productPriceOld": null,
@@ -53381,7 +53381,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. DLIGHT ENERGY FLAVOR 2.9% 0.33L STIKLS",
     "productPriceOld": null,
@@ -53404,7 +53404,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. DLIGHT LEMON 2.9% 0.33L STIKLS",
     "productPriceOld": null,
@@ -53519,7 +53519,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.SALITOS Original 5,9% 0,5L sk.D",
     "productPriceOld": null,
@@ -56890,7 +56890,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.DLIGHT Energy 2,9% 0,33L D",
     "productPriceOld": null,
@@ -56913,7 +56913,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dz.DLIGHT Tequila Lime 2,9% 0,33L D",
     "productPriceOld": null,
@@ -57802,7 +57802,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Dlight Lemon 2,9% 0,33l",
     "productPriceOld": null,
@@ -58782,7 +58782,7 @@
     "categories": [
       1,
       1003,
-      1003001
+      1003005
     ],
     "productName": "Bezalk.alus dzēr.BAVARIA Ginger 330ml D",
     "productPriceOld": null,
@@ -58805,7 +58805,7 @@
     "categories": [
       1,
       1003,
-      1003001
+      1003005
     ],
     "productName": "Bezalk.alus dz.BAVARIA FruityRose330ml D",
     "productPriceOld": null,
@@ -64982,7 +64982,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Solveza Muscat 4,5% 0,33l",
     "productPriceOld": null,
@@ -65028,7 +65028,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēriens Solveza Rosado 4,5% 0,33l",
     "productPriceOld": null,
@@ -71291,7 +71291,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. SALITOS ORIGINAL 5.9% 0.33L STIKLS",
     "productPriceOld": null,
@@ -73818,7 +73818,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALK.KOKT. G&GRAPEFRUT 14% 0.28L CĒSU ALUS",
     "productPriceOld": null,
@@ -73864,7 +73864,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALK.KOKT. FRANČU PĪLĀDZIS 14% 0.28L CĒSU ALUS",
     "productPriceOld": null,
@@ -74627,7 +74627,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. GARAGE HARDCORE CHERRY 6% 0.275L STIKLS",
     "productPriceOld": null,
@@ -74650,7 +74650,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "ALUS KOKT. GARAGE HARDCORE GRAPEFRUIT 6% 0.275L STIKLS",
     "productPriceOld": null,
@@ -165896,7 +165896,7 @@
     "categories": [
       1,
       1001,
-      1001001
+      1001005
     ],
     "productName": "Alus dzēr. SHERWOOD upene 4,5% 1L PET D",
     "productPriceOld": null,
