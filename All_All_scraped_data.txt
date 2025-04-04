@@ -71253,7 +71253,7 @@
     "categories": [
       2,
       2001,
-      2001007
+      20010015
     ],
     "productName": "Kliju sausbaranciņas 400g",
     "productPriceOld": null,
@@ -71322,7 +71322,7 @@
     "categories": [
       2,
       2001,
-      2001007
+      20010015
     ],
     "productName": "Kliju sausbaranciņas 400g",
     "productPriceOld": null,
@@ -74132,7 +74132,7 @@
     "categories": [
       2,
       2001,
-      2001008
+      20010015
     ],
     "productName": "Sausiņi Dona trīsgraudu 300g",
     "productPriceOld": null,
@@ -74560,7 +74560,7 @@
     "categories": [
       2,
       2001,
-      2001005
+      20010015
     ],
     "productName": "SALDSKĀBMAIZES ĶIPLOKU GRAUZDIŅI CITRO 200G",
     "productPriceOld": null,
@@ -76453,7 +76453,7 @@
     "categories": [
       2,
       2001,
-      2001007
+      20010015
     ],
     "productName": "Sausbaranciņas kliju ar sorbītu 200g",
     "productPriceOld": null,
@@ -83461,7 +83461,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Sausbaranciņas pilngraudu ar sēklām 220g",
@@ -90287,7 +90287,7 @@
     "categories": [
       2,
       2001,
-      2001008,
+      20010015,
       2001001
     ],
     "productName": "Grauzdiņi Krisprolls pilngraudu 225g",
@@ -121074,7 +121074,7 @@
     "categories": [
       2,
       2001,
-      2001006
+      20010015
     ],
     "productName": "RUPJMAIZES ČIPSI BON CHANCE AR TRĪSKĀRŠU SIERU GARŠU 120G",
     "productPriceOld": null,
@@ -126435,7 +126435,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausiņi LINKOSUO ar sk.krēj. 150g",
     "productPriceOld": null,
@@ -126458,7 +126458,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausiņi LINKOSUO ar ķiplokiem 150g",
     "productPriceOld": null,
@@ -126481,7 +126481,7 @@
     "categories": [
       2,
       2001,
-      2001004
+      20010015
     ],
     "productName": "Rudzu sausiņi LINKOSUO Original 150g",
     "productPriceOld": null,
@@ -149508,7 +149508,7 @@
     "categories": [
       2,
       2001,
-      2001006
+      20010015
     ],
     "productName": "Īstas rupjmaizes groziņi 85g",
     "productPriceOld": null,
